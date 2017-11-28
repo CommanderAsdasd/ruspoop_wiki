@@ -4,4 +4,5 @@ permalink: wiki/MrCounterMax/
 layout: wiki
 ---
 
-Макс
+Макс [Категория:Пуперы](Категория:Пуперы "wikilink")
+[Категория:Музпуперы](Категория:Музпуперы "wikilink")
