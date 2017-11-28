@@ -1,0 +1,6 @@
+;Описание.
+:Этот шаблон используется для отметки файлов, которые распространяются под лицензией Creative Commons Attribution-ShareAlike License (CC-BY-SA) версий [http://creativecommons.org/licenses/by-sa/3.0/ 3.0].
+;Использование.
+:Добавьте <code>{{t|CC-BY-SA-3.0}}</code> на страницу описания изображения в раздел о лицензии.<includeonly>
+[[Категория:Шаблоны лицензий|{{PAGENAME}}]]</includeonly><noinclude>
+[[Категория:Документация шаблонов|{{PAGENAME}}]]</noinclude>
