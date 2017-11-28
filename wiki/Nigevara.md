@@ -4,4 +4,4 @@ permalink: wiki/Nigevara/
 layout: wiki
 ---
 
-gefalsht
+gefalsht [Категория:Пуперы](Категория:Пуперы "wikilink")
