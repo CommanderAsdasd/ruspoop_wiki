@@ -4,4 +4,4 @@ permalink: wiki/Lindenov/
 layout: wiki
 ---
 
-пупер
+пупер [Категория:Пуперы](Категория:Пуперы "wikilink")
