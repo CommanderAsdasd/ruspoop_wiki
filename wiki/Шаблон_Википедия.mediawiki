@@ -1,0 +1,7 @@
+{| align=center border=0 cellpadding=3 cellspacing=3 style="border: 1px solid #E0E0E0;"
+|- 
+|[[File:Smallwikipedialogo.png|50px]]
+| style="font-size: 90%" | Эта страница использует материалы [http://www.wikipedia.org '''Википедии''']. Оригинальная статья — «[[Wikipedia:{{{lang|ru}}}:{{{1|{{PAGENAME}}}}}|{{{1|{{PAGENAME}}}}}]]». Список авторов можно увидеть там же на [http://{{{lang|ru}}}.wikipedia.org/w/index.php?title={{urlencode:{{{1|{{PAGENAMEE}}}}}}}&action=history '''странице истории''']. Как и на '''{{SITENAME}}''', текст Википедии доступен в соответствие с [[w:c:ru.community:Викия:Лицензирование|Creative Commons License]].
+|}
+<br />
+<noinclude>{{doc}}</noinclude>
