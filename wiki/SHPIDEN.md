@@ -4,4 +4,4 @@ permalink: wiki/SHPIDEN/
 layout: wiki
 ---
 
-Дед музпуп
+Дед музпуп [Категория:Музпуперы](Категория:Музпуперы "wikilink")
