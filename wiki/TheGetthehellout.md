@@ -5,4 +5,3 @@ layout: wiki
 ---
 
 getthebellout сделал getthehellout
-[Категория:Пуперы](Категория:Пуперы "wikilink")
