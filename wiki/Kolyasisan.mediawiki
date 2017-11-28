@@ -1,13 +1,11 @@
-{{Пуперы
+{{Пупер
 |title1=Kolyasisan
 |image1=[[Файл:Kolyasisan.jpg|thumb]]
 |имя_фамилия=Николай Пономарёв
 |image2=[[Файл:Николай_Пономарёв.jpg|thumb]]
-|пол=Мужской
 |сферы_творчества=RYTP, Технодемки, Геймдев
 |город=Москва
 |когда_начал=22 Октября 2015 года
 |канал=[https://www.youtube.com/user/Kolyasisan YouTube]
-|Соц.сети=[https://vk.com/kolyasisan Вконтакте]
-|другие_каналы=Отсутствуют
+|соцсети=[https://vk.com/kolyasisan Вконтакте]
 }}
