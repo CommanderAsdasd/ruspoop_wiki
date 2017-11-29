@@ -4,4 +4,5 @@ permalink: wiki/RYTP/
 layout: wiki
 ---
 
-Пупы это тутк дидиди сас
+**Russian YouTube Poop** (**RYTP**) — русскоязычные видео в жанре
+YouTube Poop.
