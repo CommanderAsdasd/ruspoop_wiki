@@ -1,2 +1,15 @@
-{{Пупер|title1 = /gfoint|image1 = Gfoint.jpg|имя_фамилия = Игорь Кульминский|image2 = Игорь Кульминский.jpg|сферы_творчества = RYTP|город = Москва|когда_начал = 2011 год|канал = https://www.youtube.com/user/gfoint|соцсети = https://vk.com/gfoint}}
+{{Пупер
+|title1=/gfoint
+|image1=[[Файл:Gfoint.jpg|thumb]]
+|имя_фамилия=Игорь Кульминский
+|image2=[[Файл:Игорь_Кульминский.jpg|thumb]]
+|сферы_творчества=RYTP
+|город=Москва
+|когда_начал=2011 год
+|канал=[https://www.youtube.com/gfoint YouTube]
+|соцсети=[https://vk.com/gfoint Страница Вк]
+[https://vk.com/gfoint_pub Группа ВК]
+}}
+
+Крутой стример
 [[Категория:Пуперы]]
