@@ -9,9 +9,17 @@ layout: wiki
 ## Пуперы
 
   
+[/unpearled](/unpearled "wikilink")
+
+[/wasya](/wasya "wikilink")
+
+[Ainutorendru](/wiki/Ainutorendru "wikilink")
+
 [chromacube](chromacube "wikilink")
 
 [DB](/wiki/DB "wikilink")
+
+[E253MechaShadow](/wiki/E253MechaShadow "wikilink")
 
 [kaktus113](kaktus113 "wikilink")
 
@@ -25,6 +33,10 @@ layout: wiki
 
 [pisok](pisok "wikilink")
 
+[Silent Hat](/wiki/Silent_Hat "wikilink")
+
+[Shootlife2008](/wiki/Shootlife2008 "wikilink")
+
 [Swaitis](/wiki/Swaitis "wikilink")
 
 [task228](task228 "wikilink")
@@ -32,6 +44,8 @@ layout: wiki
 [Toruser](/wiki/Toruser "wikilink")
 
 [Usualignat](/wiki/Usualignat "wikilink")
+
+[красный свитер](красный_свитер "wikilink")
 
 ## Остальное
 
