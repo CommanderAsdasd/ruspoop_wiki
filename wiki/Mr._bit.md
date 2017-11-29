@@ -4,6 +4,6 @@ permalink: wiki/Mr._bit/
 layout: wiki
 ---
 
-чувак
+есть такой
 
 [Категория:Пуперы](Категория:Пуперы "wikilink")
