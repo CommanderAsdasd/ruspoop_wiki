@@ -1,7 +1,15 @@
 {{DISPLAYTITLE:tig}}
-заедания
-
-Любит деньги
+{{Пупер
+|title1=tig
+|image1=[[Файл:Tig.jpg|thumb]]
+|имя_фамилия=
+|сферы_творчества=RYTP, RYTPMV
+|город=
+|когда_начал=
+|канал=[https://www.youtube.com/user/TigReG123 tig], [https://www.youtube.com/channel/UCvfJFTjg7FmiqykDZznlDQg/ tigregq]
+|соцсети=
+}}
+'''tig''', ранее '''Tigreg''' — музпупер, рандомщик. В прошлом активный участник теннисов. 
 [[Категория:Пуперы]]
 [[Категория:Музпуперы]]
 [[Категория:Рандомщики]]
