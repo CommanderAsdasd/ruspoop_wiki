@@ -4,4 +4,4 @@ permalink: wiki/LolRuStuff/
 layout: wiki
 ---
 
-создал
+создал [Категория:Пуперы](Категория:Пуперы "wikilink")
