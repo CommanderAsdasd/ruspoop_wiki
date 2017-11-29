@@ -4,4 +4,4 @@ permalink: wiki/Exometr/
 layout: wiki
 ---
 
-requiescat in pace
+requiescat in pace [Категория:Пуперы](Категория:Пуперы "wikilink")
