@@ -1,6 +1,6 @@
 {{Пупер
 |title1=OrangePowderTV
-|image1=
+|image1=[[Файл:OrangePowderTV.jpg]]
 |имя_фамилия=Григорий Пластеев
 |image2=
 |сферы_творчества=RYTP, RYTPMV
