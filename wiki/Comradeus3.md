@@ -4,4 +4,4 @@ permalink: wiki/Comradeus3/
 layout: wiki
 ---
 
-да
+да [Категория:Пуперы](Категория:Пуперы "wikilink")
