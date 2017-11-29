@@ -27,6 +27,8 @@ layout: wiki
 
 [kokoslol9990](kokoslol9990 "wikilink")
 
+[L.A.S.11](/wiki/L.A.S.11 "wikilink")
+
 [Lolita RYTP](/wiki/Lolita_RYTP "wikilink")
 
 [lonrefne](lonrefne "wikilink")
