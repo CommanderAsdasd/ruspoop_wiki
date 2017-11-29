@@ -49,7 +49,7 @@ layout: wiki
 
 [pisok](pisok "wikilink")
 
-\[\[shch
+[shch\*shch](shch*shch "wikilink")
 
 [Silent Hat](/wiki/Silent_Hat "wikilink")
 
