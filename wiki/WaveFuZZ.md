@@ -4,4 +4,4 @@ permalink: wiki/WaveFuZZ/
 layout: wiki
 ---
 
-rip
+rip [Категория:Пуперы](Категория:Пуперы "wikilink")
