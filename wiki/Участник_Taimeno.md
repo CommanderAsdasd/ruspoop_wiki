@@ -15,6 +15,8 @@ layout: wiki
 
 [Ainutorendru](/wiki/Ainutorendru "wikilink")
 
+[CaptainCacao](/wiki/CaptainCacao "wikilink")
+
 [chromacube](chromacube "wikilink")
 
 [DB](/wiki/DB "wikilink")
@@ -24,6 +26,8 @@ layout: wiki
 [kaktus113](kaktus113 "wikilink")
 
 [kokoslol9990](kokoslol9990 "wikilink")
+
+[Lolita RYTP](/wiki/Lolita_RYTP "wikilink")
 
 [lonrefne](lonrefne "wikilink")
 
@@ -35,6 +39,8 @@ layout: wiki
 
 [Silent Hat](/wiki/Silent_Hat "wikilink")
 
+[Simulakr\_](/wiki/Simulakr "wikilink")
+
 [Shootlife2008](/wiki/Shootlife2008 "wikilink")
 
 [Swaitis](/wiki/Swaitis "wikilink")
@@ -44,6 +50,8 @@ layout: wiki
 [Toruser](/wiki/Toruser "wikilink")
 
 [Usualignat](/wiki/Usualignat "wikilink")
+
+[velosipidor](velosipidor "wikilink")
 
 [красный свитер](красный_свитер "wikilink")
 
