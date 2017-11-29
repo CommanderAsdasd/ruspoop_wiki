@@ -15,13 +15,19 @@ layout: wiki
 
 [Ainutorendru](/wiki/Ainutorendru "wikilink")
 
-[CaptainCacao](/wiki/CaptainCacao "wikilink")
+[Captain_Cacaonix](/wiki/Captain_Cacaonix "wikilink")
 
 [chromacube](chromacube "wikilink")
 
 [DB](/wiki/DB "wikilink")
 
 [E253MechaShadow](/wiki/E253MechaShadow "wikilink")
+
+[Flashday25](/wiki/Flashday25 "wikilink")
+
+[FureonNectarmoon](/wiki/FureonNectarmoon "wikilink")
+
+[hatred](hatred "wikilink")
 
 [kaktus113](kaktus113 "wikilink")
 
@@ -37,7 +43,11 @@ layout: wiki
 
 [NiniksSuperAwesome](/wiki/NiniksSuperAwesome "wikilink")
 
+[octagoncoil](octagoncoil "wikilink")
+
 [pisok](pisok "wikilink")
+
+\[\[shch
 
 [Silent Hat](/wiki/Silent_Hat "wikilink")
 
