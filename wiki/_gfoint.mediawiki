@@ -3,7 +3,7 @@
 |image1=[[Файл:Gfoint.jpg|thumb|200px]]
 |имя_фамилия=Игорь Кульминский
 |image2=[[Файл:Игорь_Кульминский.jpg|thumb|200px]]
-|сферы_творчества=RYTP,RYTPMV, стримы
+|сферы_творчества=RYTP, RYTPMV, стримы
 |город=Москва
 |когда_начал=2011 год
 |канал=[https://www.youtube.com/gfoint YouTube]
