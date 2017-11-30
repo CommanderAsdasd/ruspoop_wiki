@@ -18,4 +18,4 @@ layout: wiki
 
 [Наша группа ВК](https://vk.com/ruspoopwiki)
 
-[Группв пупов](https://vk.com/russianpoop)
+[Группа пупов](https://vk.com/russianpoop)
