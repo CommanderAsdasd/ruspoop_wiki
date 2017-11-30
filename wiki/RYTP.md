@@ -10,3 +10,10 @@ YouTube Poop. Представляют из себя изменение
 помощью видеоредактора, обычно Sony Vegas Pro.
 
 [История RYTP](История_RYTP "wikilink")
+
+## Примеры
+
+Сборник пупов и музпупов 2012 года
+от [Shootlife2008](http://ru.ruspoop.wikia.com/wiki/Shootlife2008)
+
+[thumb\|left\|335 px](Файл:Сборник_ПУПов "wikilink")
