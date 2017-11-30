@@ -6,7 +6,7 @@
     <label>Другие ники</label>
   </data>
   <image source="image3">
-    <caption source="caption3"/>
+    <caption source="caption1"/>
   </image>
   <data source="сферы_творчества">
     <label>Сферы творчества</label>
@@ -15,10 +15,10 @@
     <label>Год начала</label>
   </data>
   <image source="image4">
-    <caption source="caption4"/>
+    <caption source="caption2"/>
   </image>
   <data source="имя_фамилия">
-    <label>Имя Фамилия</label>
+    <label>Имя</label>
   </data>
   <data source="дата_рождения">
     <label>Дата рождения</label>
