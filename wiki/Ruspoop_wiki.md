@@ -25,6 +25,14 @@ layout: wiki
 
 <div style="border:4px solid #000000; background:#4d3f68; text-align:center; font-size:150%; color:#cccccc">
 
+**Последние правки**
+
+</div>
+
+<activityfeed size=5 shortlist=true/>
+
+<div style="border:4px solid #000000; background:#4d3f68; text-align:center; font-size:150%; color:#cccccc">
+
 **Ссылки**
 
 </div>
@@ -32,12 +40,4 @@ layout: wiki
 [thumb\|left\|20px](Файл:Vk_icon-icons.com_66681.png "wikilink") [Наша
 группа](https://vk.com/ruspoopwiki)
 [thumb\|left\|20px](Файл:Vk_icon-icons.com_66681.png "wikilink") [Группа
-пупов](https://vk.com/russianpoop)
-
-<div style="border:4px solid #000000; background:#4d3f68; text-align:center; font-size:150%; color:#cccccc">
-
-**Последние правки**
-
-</div>
-
-<activityfeed size=5 shortlist=true/> <mainpage-endcolumn/>
+пупов](https://vk.com/russianpoop) <mainpage-endcolumn/>
