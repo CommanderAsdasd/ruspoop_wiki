@@ -29,7 +29,7 @@ layout: wiki
 
 </div>
 
-<activityfeed size=5 shortlist=true/>
+<activityfeed size="5" shortlist="true"></activityfeed>
 
 <div style="border:4px solid #000000; background:#4d3f68; text-align:center; font-size:150%; color:#cccccc">
 
