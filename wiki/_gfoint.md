@@ -8,6 +8,6 @@ layout: wiki
 концентрацией шуток и отличным вордмиксом. С 2016 года фактически отошёл
 от пупов, выкладывает видео на альт
 ([TooDamnFointie](https://www.youtube.com/user/djifointie)) и стримит
-(https://twitch.tv/gfoint gfoint\]).
+([gfoint](https://twitch.tv/gfoint)).
 
 [Категория:Пуперы](Категория:Пуперы "wikilink")
