@@ -20,3 +20,4 @@ layout: wiki
 ([TooDamnFointie](https://www.youtube.com/user/djifointie)) и стримит на
 твиче ([gfoint](https://twitch.tv/gfoint)).
 [Категория:Пуперы](Категория:Пуперы "wikilink")
+[Категория:Музпуперы](Категория:Музпуперы "wikilink")
