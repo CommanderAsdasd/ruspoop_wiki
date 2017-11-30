@@ -1,14 +1,14 @@
-{{Пупер
-|title1=/gfoint
-|image1=[[Файл:Gfoint.jpg|thumb|200px]]
+{{Инфобокс для пуперов
+|title2=/gfoint
+|другие_ники=TooDamnFointie
+|image3=[[Файл:Gfoint.jpg|thumb|200px]]
+|сферы_творчества=RYTP, RYTPMV, Стримы
+|год_начала=2011
+|image4=[[Файл:Игорь_Кульминский.jpg|thumb|200px]]
 |имя_фамилия=Игорь Кульминский
-|image2=[[Файл:Игорь_Кульминский.jpg|thumb|200px]]
-|сферы_творчества=RYTP, RYTPMV, стримы
-|город=Москва
-|когда_начал=2011 год
-|канал=[https://www.youtube.com/gfoint YouTube]
-|соцсети=[https://vk.com/gfoint Страница Вк]
-[https://vk.com/gfoint_pub Группа ВК]
+|дата_рождения=9 марта
+|место_проживания=Москва
+|ссылки=[https://www.youtube.com/gfoint YouTube][https://www.youtube.com/user/djifointie Альт. канал][https://vk.com/gfoint Страница Вк][https://vk.com/gfoint_pub Группа ВК]
 }}
 ==Описание==
 
@@ -40,6 +40,5 @@ PSYTP - RUSSIAN STYLE
 SQUIDWARD TRIBUTE RYTPMV
 Человек паук возрождает веру в основную информацию RYTP
 </gallery>
-
 [[Категория:Пуперы]]
 [[Категория:Музпуперы]]
