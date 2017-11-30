@@ -1,13 +1,13 @@
-{{Пупер
-|title1=Yogi The Wise
-|image1=
+{{Инфобокс для пуперов
+|title2=Yogi The Wise
+|другие_ники=
+|image3=Пример
+|сферы_творчества=RYTP, Стримы, Летсплеи
+|год_начала=2010
+|image4=Пример
 |имя_фамилия=Егор Мироненко
-|image2=
-|сферы_творчества=RYTP, стримы, летсплеи
-|город=Киев
-|когда_начал=2010
-|канал=[https://www.youtube.com/user/TheRealYogiTheWisest Yogi The Wise], [https://www.youtube.com/user/YogiTheWise Заброшенный канал]
-|соцсети=
-}}.
-
+|дата_рождения=Пример
+|место_проживания=Пример
+|ссылки=[https://www.youtube.com/user/TheRealYogiTheWisest Yogi The Wise], [https://www.youtube.com/user/YogiTheWise Заброшенный канал]
+}}
 [[Категория:Пуперы]]
