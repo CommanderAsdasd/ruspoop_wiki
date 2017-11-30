@@ -10,7 +10,7 @@
 
 <mainpage-rightcolumn-start/>
 <div style="border:4px solid #000000; background:#4d3f68; text-align:center; font-size:150%; color:#cccccc">'''Последние правки'''</div>
-<activityfeed size="5" shortlist="true"></activityfeed>
+<activityfeed size="5" shortlist="false"></activityfeed>
 <div style="border:4px solid #000000; background:#4d3f68; text-align:center; font-size:150%; color:#cccccc">'''Ссылки'''</div>
 [[Файл:Vk_icon-icons.com_66681.png|thumb|left|20px]]
 [https://vk.com/ruspoopwiki Наша группа]
