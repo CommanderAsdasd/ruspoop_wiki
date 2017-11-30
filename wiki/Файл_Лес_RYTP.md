@@ -6,4 +6,5 @@ layout: wiki
 
 ## Description
 
-[Категория:Видео](Категория:Видео "wikilink")
+Музыка: Montee - Liquid Star Serebro - mi mi mi Schoolboy Q -
+RapfixCypher (20syl Remix) Wang Rong Rollin - Chick Chick
