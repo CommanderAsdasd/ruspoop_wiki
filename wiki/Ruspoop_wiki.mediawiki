@@ -4,12 +4,6 @@
 На данный момент создано [[Служебная:Allpages|{{NUMBEROFARTICLES}}]] {{plural:{{NUMBEROFARTICLES}}|статья|статьи|статей}}
 ----
 
-
-*[http://ru.ruspoop.wikia.com/wiki/Служебная:AllPages Все страницы]
-
-
-----
-
 [https://vk.com/ruspoopwiki Наша группа ВК]
 
 [https://vk.com/russianpoop Группа пупов]
