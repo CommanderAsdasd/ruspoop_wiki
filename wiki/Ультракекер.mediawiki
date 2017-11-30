@@ -4,10 +4,10 @@
 |image3=[[Файл:Octagoncoil.jpg|thumb|360px]]
 |сферы_творчества=RYTP
 |год_начала=7 июля 2015
-|image4=Пример
-|caption4=Пример
+|image4=
+|caption4=
 |имя_фамилия=Александр Вескер
-|дата_рождения=Пример
+|дата_рождения=
 |место_проживания=Тольятти
 |ссылки=[https://www.youtube.com/octagoncoil YouTube]
 [https://vk.com/lumizence Вконтакте]
