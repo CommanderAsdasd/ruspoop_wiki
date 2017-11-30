@@ -6,7 +6,13 @@ layout: wiki
 
 <mainpage-leftcolumn-start/>
 
-**Здравствуйте, дорогие друзья.**
+<div style="border:1px solid #000000; background:#4d3f68; text-align:center; 
+font-size:150%; color:#cccccc">
+
+Здравствуйте, дорогие друзья**  
+**
+
+</div>
 
 Вы находитесь на официальной вики RYTP, где вы сможете узнать все о нем.
 
