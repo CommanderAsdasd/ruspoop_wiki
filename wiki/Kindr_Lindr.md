@@ -4,9 +4,9 @@ permalink: wiki/Kindr_Lindr/
 layout: wiki
 ---
 
-[thumb](Файл:KindrLindr.png "wikilink")[канал](https://www.youtube.com/channel/UCqBZM4igLsB_mDI9ELcxUeQ)
- был зарегестрирован 21 июня 2015 года, тогда же на нём и был
-опублекован первый пуп "Лес \| RYTP".
+}}[канал](https://www.youtube.com/channel/UCqBZM4igLsB_mDI9ELcxUeQ)  был
+зарегестрирован 21 июня 2015 года, тогда же на нём и был опублекован
+первый пуп "Лес \| RYTP".
 
 [thumb\|right\|335 pxИзвестно](Файл:Лес_RYTP "wikilink"), что Kindr
 Lindr монтировала свои пупы в adobe premiere pro.
@@ -15,6 +15,6 @@ Lindr монтировала свои пупы в adobe premiere pro.
 \\RYTP/](https://www.youtube.com/watch?v=cdAIGt8ytYY) был опубликован 31
 декабря 2015 года.
 
-[thumb\|right\|335 px](Файл:GolodnbIe_Game_\RYTP-0 "wikilink")
+[thumb\|right\|335px](Файл:GolodnbIe_Game_\RYTP-0 "wikilink")
 [Категория:Пуперы-девушки](Категория:Пуперы-девушки "wikilink")
 [Категория:Пуперы](Категория:Пуперы "wikilink")
