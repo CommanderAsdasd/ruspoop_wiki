@@ -1,19 +1,18 @@
-
-
-{{Инфобокс для пуперов}}
-|title2= Kindr Lindr
+{{Инфобокс для пуперов
+|title2=Kindr Lindr
 |другие_ники=
-|image3= [[Файл:KindrLindr.png|thumb]]
+|image3=[[Файл:KindrLindr.png|thumb]]
 |caption3=
-|сферы_творчества= RYTP, анимация
-|год_начала= 2015
+|сферы_творчества=RYTP, анимация
+|год_начала=2015
 |image4=
 |caption4=
 |имя_фамилия=
 |дата_рождения=
 |место_проживания=
-|ссылки= канал [https://www.youtube.com/channel/UCqBZM4igLsB_mDI9ELcxUeQ YouTube]
+|ссылки=канал [https://www.youtube.com/channel/UCqBZM4igLsB_mDI9ELcxUeQ YouTube]
 }}
+
 
 Канал был зарегистрирован 21 июня 2015 года, тогда же на нём и был опубликован первый пуп "Лес | RYTP".
 
