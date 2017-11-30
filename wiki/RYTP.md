@@ -9,7 +9,10 @@ YouTube Poop. Представляют из себя изменение
 оригинальных [сурсов](http://ru.ruspoop.wikia.com/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D1%8B) с
 помощью видеоредактора, обычно Sony Vegas Pro.
 
-[История RYTP](История_RYTP "wikilink")
+-   [История RYTP](История_RYTP "wikilink")
+-   [Что же такое
+    (R)YTP](https://www.youtube.com/watch?v=P2250CFWUto) от [fr
+    sv](fr_sv "wikilink")
 
 ## Примеры
 
