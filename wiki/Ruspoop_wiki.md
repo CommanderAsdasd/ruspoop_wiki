@@ -29,8 +29,9 @@ layout: wiki
 
 </div>
 
-[thumb\|left\|30px](Файл:Vk_icon-icons.com_66681.png "wikilink") [Наша
-группа](https://vk.com/ruspoopwiki) [Группа
+[thumb\|left\|20px](Файл:Vk_icon-icons.com_66681.png "wikilink") [Наша
+группа](https://vk.com/ruspoopwiki)
+[thumb\|left\|20px](Файл:Vk_icon-icons.com_66681.png "wikilink") [Группа
 пупов](https://vk.com/russianpoop)
 
 <mainpage-endcolumn/>
