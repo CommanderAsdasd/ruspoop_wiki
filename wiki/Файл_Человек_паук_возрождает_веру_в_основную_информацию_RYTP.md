@@ -6,13 +6,4 @@ layout: wiki
 
 ## Описание
 
-ВК: <http://vk.com/gfoint> Tвиттер: <http://twitter.com/gfoint> То самое
-видео в 360p качестве, о котором шла речь вот тут:
-<http://vk.com/wall-29232847_170> Основной сурс:
-<http://www.youtube.com/watch?v=QCprS0MNw9g> (выпилен с ютуба) Музыка:
-0:41 Noisestorm - Afterburner 1:32 Дискотека Авария - Диско Суперстар
-1:42 Rebecca Black - Friday 2:15 Armando Trovaioli - Beach Parade 2:18
-Birdy Nam Nam - Goin' In (Skrillex Goin' Hard Mix) .
-
-JOIN QUIZGROUP PARTNER PROGRAM: <http://join.quizgroup.com/> .
 [Категория:Видео](Категория:Видео "wikilink")
