@@ -43,10 +43,9 @@ MORTY & RYTP](https://www.youtube.com/watch?v=BKK8s5JUJ9Y), который
 
 ## Примеры работ
 
-[thumb\|left\|150
-px](Файл:PSYTP_-_RUSSIAN_STYLE-0 "wikilink")[thumb\|left\|150
-px](Файл:Оригинальная_версия_клипа_Ромы_Жёлудя_-_LIKE "wikilink")[thumb\|left\|150
-px](Файл:SQUIDWARD_TRIBUTE_RYTPMV "wikilink")[thumb\|left\|150
-px](Файл:Человек_паук_возрождает_веру_в_основную_информацию_RYTP "wikilink")
+PSYTP - RUSSIAN STYLE Оригинальная версия клипа Ромы Жёлудя - LIKE
+SQUIDWARD TRIBUTE RYTPMV Человек паук возрождает веру в основную
+информацию RYTP
+
 [Категория:Пуперы](Категория:Пуперы "wikilink")
 [Категория:Музпуперы](Категория:Музпуперы "wikilink")
