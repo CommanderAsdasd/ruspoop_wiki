@@ -1,15 +1,14 @@
-{{Пупер
-|title1=WaveFuZZ
-|image1=
-|caption1=
-|имя_фамилия=Роман Канаев
-|image2=
-|caption2=
+{{Инфобокс для пуперов
+|title2=WaveFuZZ
+|другие_ники=
+|image3=Пример
 |сферы_творчества=RYTPMV
-|город=
-|когда_начал=
-|канал=[https://www.youtube.com/channel/UCQ0hDNwxz_orFUAtV6t1EaA WaveFuZZ], [https://www.youtube.com/channel/UCsRuJSVxoi6cYnMCOaIvMvw FuZZalt]
-|соцсети=
+|год_начала=Пример
+|image4=Пример
+|имя_фамилия=Роман Канаев
+|дата_рождения=Пример
+|место_проживания=Пример
+|ссылки=[https://www.youtube.com/channel/UCQ0hDNwxz_orFUAtV6t1EaA WaveFuZZ], [https://www.youtube.com/channel/UCsRuJSVxoi6cYnMCOaIvMvw FuZZalt]
 }}
 
 '''WaveFuZZ''' (''Роман Канаев'') — музпупер. Погиб 23 июня 2017 года.
