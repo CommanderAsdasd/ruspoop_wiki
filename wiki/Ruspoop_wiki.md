@@ -4,6 +4,8 @@ permalink: wiki/Ruspoop_wiki/
 layout: wiki
 ---
 
+<mainpage-leftcolumn-start/>
+
 ## **Здравствуйте, дорогие друзья.**
 
 ### Вы находитесь на официальной вики RYTP, где вы сможете узнать все о нем.
@@ -13,6 +15,10 @@ layout: wiki
 
 ------------------------------------------------------------------------
 
+<mainpage-endcolumn/> <mainpage-rightcolumn-start/>
+
 [Наша группа ВК](https://vk.com/ruspoopwiki)
 
 [Группа пупов](https://vk.com/russianpoop)
+
+<mainpage-endcolumn/>
