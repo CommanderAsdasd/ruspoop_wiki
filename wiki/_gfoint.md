@@ -4,8 +4,12 @@ permalink: /gfoint/
 layout: wiki
 ---
 
+## Описание
+
 **/gfoint** (*Игорь Кульминский*) — пупер. Его работы отличаются высокой
 концентрацией шуток и отличным вордмиксом.
+
+## Биография
 
 В 2013 году вышел на вынужденный перерыв в один год из-за призыва в
 армию. Об этом он говорит в конце своего музпупа [SUPER WEED BOY 2
@@ -36,5 +40,13 @@ MORTY & RYTP](https://www.youtube.com/watch?v=BKK8s5JUJ9Y), который
 С 2016 года фактически отошёл от пупов, выкладывает видео на альт
 ([TooDamnFointie](https://www.youtube.com/user/djifointie)) и стримит на
 твиче ([gfoint](https://twitch.tv/gfoint)).
+
+## Примеры работ
+
+[thumb\|left\|150
+px](Файл:PSYTP_-_RUSSIAN_STYLE-0 "wikilink")[thumb\|left\|150
+px](Файл:Оригинальная_версия_клипа_Ромы_Жёлудя_-_LIKE "wikilink")[thumb\|left\|150
+px](Файл:SQUIDWARD_TRIBUTE_RYTPMV "wikilink")[thumb\|left\|150
+px](Файл:Человек_паук_возрождает_веру_в_основную_информацию_RYTP "wikilink")
 [Категория:Пуперы](Категория:Пуперы "wikilink")
 [Категория:Музпуперы](Категория:Музпуперы "wikilink")
