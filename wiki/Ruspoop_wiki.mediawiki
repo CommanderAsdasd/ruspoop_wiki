@@ -1,16 +1,13 @@
 <mainpage-leftcolumn-start/>
 
-== '''Здравствуйте, дорогие друзья.''' ==
-
-===Вы находитесь на официальной вики RYTP, где вы сможете узнать все о нем.===
-
+'''Здравствуйте, дорогие друзья.'''
+Вы находитесь на официальной вики RYTP, где вы сможете узнать все о нем.
 На данный момент создано [[Служебная:Allpages|{{NUMBEROFARTICLES}}]] {{plural:{{NUMBEROFARTICLES}}|статья|статьи|статей}} и Вы можете помочь, дополняя страницы новой информацией
-----
-
 <mainpage-endcolumn/>
 <mainpage-rightcolumn-start/>
-
-==[[Файл:Vk_icon-icons.com_66681.png|thumb|left|30px]][https://vk.com/ruspoopwiki Наша группа ВК]==
-==[[Файл:Vk_icon-icons.com_66681.png|thumb|left|30px]][https://vk.com/russianpoop Группа пупов]==
-
+{| style="width:70%; padding:1em 1em; margin:0 0 10px 0; border:1px solid #4b4b4b; moz-border-radius: 20px; webkit-border-radius: 20px; border-radius: 5px; color:#4b4b4b; font-size:100%; font-weight:bold; text-align:left;"
+|[[Файл:Vk_icon-icons.com_66681.png|thumb|left|30px]][https://vk.com/ruspoopwiki Наша группа ВК]
+|-
+|[[Файл:Vk_icon-icons.com_66681.png|thumb|left|30px]][https://vk.com/russianpoop Группа пупов]
+|}
 <mainpage-endcolumn/>
