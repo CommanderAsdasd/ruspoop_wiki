@@ -10,8 +10,7 @@
 <mainpage-endcolumn/>
 <mainpage-rightcolumn-start/>
 
-[https://vk.com/ruspoopwiki Наша группа ВК]
-
-[https://vk.com/russianpoop Группа пупов]
+==[[Файл:Vk_icon-icons.com_66681.png|thumb|left|30px]][https://vk.com/ruspoopwiki Наша группа ВК]==
+==[[Файл:Vk_icon-icons.com_66681.png|thumb|left|30px]][https://vk.com/russianpoop Группа пупов]==
 
 <mainpage-endcolumn/>
