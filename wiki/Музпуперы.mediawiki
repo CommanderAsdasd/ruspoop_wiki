@@ -1,2 +1,2 @@
-#redirect
+<span style="font-weight:400;">#redirect</span>
 [[Категория:Музпуперы]]
