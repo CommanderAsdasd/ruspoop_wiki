@@ -17,6 +17,7 @@ YouTube Poop. Представляют из себя изменение
 -   [Что же такое
     (R)YTP](https://www.youtube.com/watch?v=P2250CFWUto) от [fr
     sv](fr_sv "wikilink")
+-   [Что такое RYTP](https://youtu.be/OVX8VPU2t-8) от SpaceBurunduk
 
 ## Примеры
 
