@@ -1,13 +1,13 @@
 {{Инфобокс для пуперов
 |title2=nixhlestakov ‏
-|другие_ники=Пример
+|другие_ники=
 |image3=[[Файл:Nixhlestakov.jpg|thumb|left|200px]]
 |сферы_творчества=RYTP, RYTPMV, Mash-up
-|год_начала=Пример
+|год_начала=
 |image4=Пример
-|имя_фамилия=Пример
-|дата_рождения=Пример
-|место_проживания=Пример
+|имя_фамилия=
+|дата_рождения=
+|место_проживания=
 |ссылки=
 *[https://www.youtube.com/user/nixhlestakov/videos YouTube]
 *[https://twitter.com/nixhlestakov Twitter]
