@@ -4,4 +4,5 @@ permalink: wiki/Heute./
 layout: wiki
 ---
 
+Монтирует в Final Cut Pro
 [Категория:Пуперы](Категория:Пуперы "wikilink")
