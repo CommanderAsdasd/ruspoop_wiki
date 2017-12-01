@@ -15,7 +15,7 @@ layout: wiki
 
 ## Биография[Править](http://ru.youtubepoop.wikia.com/wiki/GetTheHellOut?action=edit&section=1)
 
-[](https://vignette.wikia.nocookie.net/youtubepoop/images/f/f5/Gtho_old_logo.png/revision/latest?cb=20170923201630&path-prefix=ru)
+[thumb\|left\|100px](Файл:Gtho_old_logo.png "wikilink")
 
 Старый логотип GTHO
 
@@ -27,9 +27,7 @@ layout: wiki
 Язя](http://ru.youtubepoop.wikia.com/wiki/%D0%AF%D0%B7%D1%8C_-_%D0%A0%D1%8B%D0%B1%D0%B0_%D0%9C%D0%BE%D0%B5%D0%B9_%D0%9C%D0%B5%D1%87%D1%82%D1%8B),
 о чем потом сильно пожалеет.
 
-[](https://vignette.wikia.nocookie.net/youtubepoop/images/8/87/GTHO.png/revision/latest?cb=20170923205949&path-prefix=ru)
-
-Новый логотип GTHO
+[thumb\|left\|100pxНовый](Файл:GTHO.png "wikilink") логотип GTHO
 
 К сожалению официальный ютуб-канал Халлаута до наших дней не до жил,
 многие пупы Халлаута были страйкнуты за нарушение авторских прав и его
@@ -47,7 +45,7 @@ layout: wiki
 стал делать новые пупы, причём раз в месяц, дабы избегать нарушений и
 обходить права.
 
-[](https://vignette.wikia.nocookie.net/youtubepoop/images/7/70/%D0%9A%D0%BE%D1%81%D0%B0%D1%80%D1%8C_GTHO.jpg/revision/latest?cb=20170629024833&path-prefix=ru)
+[thumb\|left\|200px](Файл:Косарь_GTHO.jpg "wikilink")
 
 Фрагмент скриншота старого канала с 1000 подписчиками
 
@@ -59,7 +57,7 @@ layout: wiki
 
 ## Галерея[Править](http://ru.youtubepoop.wikia.com/wiki/GetTheHellOut?action=edit&section=2)
 
-[](http://ru.youtubepoop.wikia.com/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Old_channel_gtho.png)Скриншота
-канала GTHO за январь 2012
-года[](http://ru.youtubepoop.wikia.com/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Old_channel_gtho2.png)
+Скриншота канала GTHO за январь 2012 года
+[thumb\|left](Файл:Old_channel_gtho.png "wikilink")
+[thumb\|center](Файл:Old_channel_gtho2.png "wikilink")
 [Категория:Пуперы](Категория:Пуперы "wikilink")
