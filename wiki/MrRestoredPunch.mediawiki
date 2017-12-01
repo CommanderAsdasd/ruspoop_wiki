@@ -1,5 +1,18 @@
-https://www.youtube.com/channel/UCuLMmanRTE0QgPX-URjdbPQ
-
+{{Инфобокс для пуперов
+|title2=MrRestoredPunch
+|другие_ники= ThisFuckinAccount
+MrDeadlyPunch
+|image3=[[Файл:Photo_(1).jpg|thumb]]
+|caption3=
+|сферы_творчества=RYTP
+|год_начала=
+|image4=
+|caption4=
+|имя_фамилия=
+|дата_рождения=
+|место_проживания=
+|ссылки=[https://www.youtube.com/channel/UCuLMmanRTE0QgPX-URjdbPQ канал]
+}}
 Он же ThisFuckinAccount
 [[Категория:Пуперы]]
 [[Категория:Рандомщики]]
