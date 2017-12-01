@@ -4,5 +4,6 @@ permalink: wiki/MrDeadlyPunch/
 layout: wiki
 ---
 
-Он же ThisFuckinAccount [Категория:Пуперы](Категория:Пуперы "wikilink")
-[Категория:Рандомщики](Категория:Рандомщики "wikilink")
+1.  перенаправление [MrRestoredPunch](/wiki/MrRestoredPunch "wikilink")
+
+\_\_СТАТИЧЕСКОЕ_ПЕРЕНАПРАВЛЕНИЕ\_\_
