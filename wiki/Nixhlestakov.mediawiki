@@ -1,1 +1,13 @@
-{{Инфобокс_для_пуперов|title2 = nixhlestakov|image3 = Nixhlestakov.jpg|год_начала = 2017|ссылки = https://www.youtube.com/user/nixhlestakov}}
+{{Инфобокс для пуперов
+|title2=nixhlestakov ‏
+|другие_ники=Пример
+|image3=[[Файл:Nixhlestakov.jpg|thumb|left|200px]]
+|сферы_творчества=Пример
+|год_начала=Пример
+|image4=Пример
+|имя_фамилия=Пример
+|дата_рождения=Пример
+|место_проживания=Пример
+|ссылки=
+*[https://www.youtube.com/user/nixhlestakov/videos YouTube]
+}}
