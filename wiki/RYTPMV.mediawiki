@@ -2,10 +2,12 @@
 Это ответвление от обычных пупов, представляющее из себя нарезку из видео фрагментов. После нарезки идёт изменение их звучания путём использования различных эффектов в Sony Vegas, в основном это Pitch Shift. На выходе могут быть совершенно разные видео: от мемных "напевов" до серьёзных работ, в которых звучание окажется даже лучше, чем в оригинальной песне.
 
 == Немного истории. ==
-[[File:Один из музпупов того времени|thumb|300x300px]]
 Музпупы, как и обычные пупы, зародились за бугром. Самый давний найденный нами музпуп был загружен в 2008 году. В России первые музпупы начали делать в начале 10-х годов. К сожалению, часть из них сейчас уже не найти. Визуально они тогда не были столь яркими, т.к. над этим особо не заморачивались.
 
 
+==[[Файл:Sexy pocik with pitch|thumb|right|335px]][[File:Один из музпупов того времени|thumb|300x300px]]==
+
+ 
 ==Терминология==
 <span style="font-family:arial,sans,sans-serif;font-size:13.3333px;font-weight:700;text-align:center;">Бгм/нобгм </span><span style="color:rgb(84,84,84);font-family:Helvetica,arial,sans-serif;font-size:16px;font-weight:400;">— </span><span style="font-family:arial,sans,sans-serif;font-size:13.3333px;font-weight:400;">Бгм - BackGround music (музыка на фоне). Собственно, nobgm - музыки на фоне нет, только музпук. Чаще всего нобгм звучит пустовато/скучно.</span>
 
@@ -21,7 +23,7 @@
 
 <span style="font-family:arial,sans,sans-serif;font-size:13.3333px;font-weight:700;text-align:center;">Сплиты </span><span style="color:rgb(84,84,84);font-family:Helvetica,arial,sans-serif;font-size:16px;font-weight:400;">—</span><span style="font-family:arial,sans,sans-serif;font-size:13.3333px;font-weight:400;">Дорожки на которых располагаются инструменты которые играют в треке, например, в рокнроле каком нибудь отедльный сплит для ведущей гитары, баса, барабанов, вокала если есть и дополнительных гитар по сплиту</span>
 
-<span style="font-family:arial,sans,sans-serif;font-size:13.3333px;font-weight:700;text-align:center;">Миди </span><span style="color:rgb(84,84,84);font-family:Helvetica,arial,sans-serif;font-size:16px;font-weight:400;">— </span><span style="font-family:arial,sans,sans-serif;font-size:13.3333px;font-weight:400;">Midi - формат музыки который тоже можно разделить на инструменты</span>
+<span style="font-family:arial,sans,sans-serif;font-size:13.3333px;font-weight:700;text-align:center;">Миди </span><span style="color:rgb(84,84,84);font-family:Helvetica,arial,sans-serif;font-size:16px;font-weight:400;">— </span><span style="font-family:arial,sans,sans-serif;font-size:13.3333px;font-weight:400;">формат музыки который тоже можно разделить на инструменты</span>
 
 <span style="font-family:arial,sans,sans-serif;font-size:13.3333px;font-weight:700;text-align:center;">Оффпитч </span><span style="color:rgb(84,84,84);font-family:Helvetica,arial,sans-serif;font-size:16px;font-weight:400;">— </span><span style="font-family:arial,sans,sans-serif;font-size:13.3333px;font-weight:400;">Неверный питч.</span>
 
