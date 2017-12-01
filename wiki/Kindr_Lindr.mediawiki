@@ -10,7 +10,8 @@
 |имя_фамилия=
 |дата_рождения=
 |место_проживания=
-|ссылки=канал [https://www.youtube.com/channel/UCqBZM4igLsB_mDI9ELcxUeQ YouTube]
+|ссылки=
+*[https://www.youtube.com/channel/UCqBZM4igLsB_mDI9ELcxUeQ YouTube]
 }}
 
 
