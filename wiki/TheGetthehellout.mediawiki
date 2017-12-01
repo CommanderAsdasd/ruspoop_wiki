@@ -9,9 +9,9 @@ MediaLoser
 |имя_фамилия=Никита Харитонов
 |дата_рождения=17 августа 1995 г.
 |место_проживания=Рязань
-|ссылки=[https://www.youtube.com/user/PenekTV YouTube]
-[https://vk.com/avtor_umri Страница ВК]
-[https://vk.com/imgtho Паблик ВК]
+|ссылки=[https://www.youtube.com/user/PenekTV YouTube] 
+[https://vk.com/avtor_umri Страница ВК] 
+[https://vk.com/imgtho Паблик ВК] 
 }}
 
 
