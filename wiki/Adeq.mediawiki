@@ -8,8 +8,9 @@
 |имя_фамилия=Егор Воронов
 |дата_рождения=
 |место_проживания=
-|ссылки=[https://www.youtube.com/user/EgorVoronov YouTube]
-[https://vk.com/voronov_egor Вконтакте]
+|ссылки=
+*[https://www.youtube.com/user/EgorVoronov YouTube]
+*[https://vk.com/voronov_egor Вконтакте]
 }}
 '''Adeq (Егор Воронов)''' — пупер, музпупер, рандомщик, композитор, сурс RYTP.
 [[Категория:Музпуперы]]
