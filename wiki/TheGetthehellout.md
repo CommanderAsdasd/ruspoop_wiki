@@ -4,10 +4,62 @@ permalink: wiki/TheGetthehellout/
 layout: wiki
 ---
 
+## Описание
+
 **TheGetthehellout** (*GTHO, Гет, Хеллаут*) — пупер, аниматор (под ником
 **MediaLoser**). С 2011 года и по сей день остаётся одним из самых
 популярных русских пуперов, несмотря на то, что его собственный канал
 был удалён ещё в 2012. С 2013 года владелец канала [Пенёк
 ТВ](Пенёк_ТВ "wikilink"), ранее принадлежащего
 [Shootlife2008](/wiki/Shootlife2008 "wikilink").
+
+## Биография[Править](http://ru.youtubepoop.wikia.com/wiki/GetTheHellOut?action=edit&section=1)
+
+[](https://vignette.wikia.nocookie.net/youtubepoop/images/f/f5/Gtho_old_logo.png/revision/latest?cb=20170923201630&path-prefix=ru)
+
+Старый логотип GTHO
+
+Впервые начал делать пупы в конце 2010 года. Сначала делал
+только [классические
+пупы](http://ru.youtubepoop.wikia.com/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%83%D0%BF).
+В 2011 году прославился тем, что создал легендарную сюжетку Не шутите с
+Поцыком. Также выложил на свой канал [сурс
+Язя](http://ru.youtubepoop.wikia.com/wiki/%D0%AF%D0%B7%D1%8C_-_%D0%A0%D1%8B%D0%B1%D0%B0_%D0%9C%D0%BE%D0%B5%D0%B9_%D0%9C%D0%B5%D1%87%D1%82%D1%8B),
+о чем потом сильно пожалеет.
+
+[](https://vignette.wikia.nocookie.net/youtubepoop/images/8/87/GTHO.png/revision/latest?cb=20170923205949&path-prefix=ru)
+
+Новый логотип GTHO
+
+К сожалению официальный ютуб-канал Халлаута до наших дней не до жил,
+многие пупы Халлаута были страйкнуты за нарушение авторских прав и его
+канал был удалён примерно в 2012 году, до этого Хеллаут выпустил
+коллаб [Якубович-Икс и Недоумки
+Хаоса](http://ru.youtubepoop.wikia.com/wiki/%D0%AF%D0%BA%D1%83%D0%B1%D0%BE%D0%B2%D0%B8%D1%87-%D0%98%D0%BA%D1%81_%D0%B8_%D0%9D%D0%B5%D0%B4%D0%BE%D1%83%D0%BC%D0%BA%D0%B8_%D0%A5%D0%B0%D0%BE%D1%81%D0%B0),
+который позже был перезалит под новым названием **Якубович-Икс и
+Перезалитые Недоумки**. В этот же
+день [Климов](http://ru.youtubepoop.wikia.com/wiki/Shootlife2008) после
+атаки хейтеров и срачей под второй частью [Рандомного
+эффекта](http://ru.youtubepoop.wikia.com/wiki/%D0%A0%D0%B0%D0%BD%D0%B4%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82:_%D0%A2%D0%B0%D0%B9%D0%BD%D0%BE%D0%B5_%D0%AF%D0%B1%D0%BB%D0%BE%D0%BA%D0%BE),
+передал Халлауту ютуб-канал [Пенёк
+ТВ](http://ru.youtubepoop.wikia.com/wiki/%D0%9F%D0%B5%D0%BD%D1%91%D0%BA_%D0%A2%D0%92),
+после этого Халлаут сначала перезалил туда коллаб на Соника, а потом
+стал делать новые пупы, причём раз в месяц, дабы избегать нарушений и
+обходить права.
+
+[](https://vignette.wikia.nocookie.net/youtubepoop/images/7/70/%D0%9A%D0%BE%D1%81%D0%B0%D1%80%D1%8C_GTHO.jpg/revision/latest?cb=20170629024833&path-prefix=ru)
+
+Фрагмент скриншота старого канала с 1000 подписчиками
+
+В 2015 году, в день победы Халлаут выложил сиквел Рандомного эффекта со
+странным
+названием [100000](http://ru.youtubepoop.wikia.com/wiki/100000) в честь
+100000 подписчиков на Пенек ТВ. На данный момент Хеллаут продолжает
+делать пупы на канале Пенек ТВ.
+
+## Галерея[Править](http://ru.youtubepoop.wikia.com/wiki/GetTheHellOut?action=edit&section=2)
+
+[](http://ru.youtubepoop.wikia.com/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Old_channel_gtho.png)Скриншота
+канала GTHO за январь 2012
+года[](http://ru.youtubepoop.wikia.com/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Old_channel_gtho2.png)
 [Категория:Пуперы](Категория:Пуперы "wikilink")
