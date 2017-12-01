@@ -4,4 +4,4 @@ permalink: wiki/Lonrefne/
 layout: wiki
 ---
 
-Дщткуату
+В прошлом InFeRnAl_KiD.
