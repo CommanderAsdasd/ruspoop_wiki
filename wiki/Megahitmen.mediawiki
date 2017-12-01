@@ -8,7 +8,8 @@
 |имя_фамилия=
 |дата_рождения=
 |место_проживания=Москва
-|ссылки=[https://www.youtube.com/user/megahitmen YouTube]
+|ссылки=
+*[https://www.youtube.com/user/megahitmen YouTube]
 }}
 
 '''megahitmen''' — пупер, визуальщик. Один из авторов коллаба «Радиоактивные люди».
