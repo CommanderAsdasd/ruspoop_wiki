@@ -5,3 +5,4 @@ layout: wiki
 ---
 
 [канал](https://www.youtube.com/user/MrRegistrLULZ)
+[Категория:Пуперы](Категория:Пуперы "wikilink")
