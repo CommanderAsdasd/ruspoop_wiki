@@ -1,1 +1,13 @@
-= TheMCzorro =
+{{Инфобокс для пуперов
+|title2=TheMCzorro
+|другие_ники=Пример
+|image3=[[Файл:TheMCzorro.jpg|thumb|left|200px]]
+|сферы_творчества=Пример
+|год_начала=Пример
+|image4=Пример
+|имя_фамилия=Пример
+|дата_рождения=Пример
+|место_проживания=Пример
+|ссылки=
+*[https://www.youtube.com/user/TheMCzorro YouTube]
+}}
