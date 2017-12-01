@@ -25,6 +25,6 @@ Sgt сделал Sg. Букву одну забыл. Вот поэтому я Sg
 <span style="font-size:13px;">[Eltorro64Rus](https://www.youtube.com/user/Eltorro64Rus) и
 Баш - родные братья</span>
 
-<span style="font-size:13px;">Мама баша пишет портреты карандашом
+<span style="font-size:13px;">Мама Баша пишет портреты карандашом
 в [группе ВК](https://vk.com/public115884253) </span>
 [Категория:Пуперы](Категория:Пуперы "wikilink")
