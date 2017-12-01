@@ -19,9 +19,7 @@ layout: wiki
 На данный момент создано [](Служебная:Allpages "wikilink") и Вы можете
 помочь, дополняя страницы новой информацией
 
-<mainpage-endcolumn/>
-
-<mainpage-rightcolumn-start/>
+<mainpage-endcolumn/> <mainpage-rightcolumn-start/>
 
 <div style="border:4px solid #000000; background:#4d3f68; text-align:center; font-size:150%; color:#cccccc">
 
@@ -37,7 +35,10 @@ layout: wiki
 
 </div>
 
-[thumb\|left\|20px](Файл:Vk_icon-icons.com_66681.png "wikilink") [Наша
+[thumb\|left\|25px](Файл:Vk_icon-icons.com_66681.png "wikilink") [Наша
 группа](https://vk.com/ruspoopwiki)
-[thumb\|left\|20px](Файл:Vk_icon-icons.com_66681.png "wikilink") [Группа
+
+------------------------------------------------------------------------
+
+[thumb\|left\|25px](Файл:Vk_icon-icons.com_66681.png "wikilink") [Группа
 пупов](https://vk.com/russianpoop) <mainpage-endcolumn/>
