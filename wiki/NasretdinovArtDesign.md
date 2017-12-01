@@ -4,4 +4,4 @@ permalink: wiki/NasretdinovArtDesign/
 layout: wiki
 ---
 
-крутой (хотя нет)
+крутой (хотя нет) [Категория:Пуперы](Категория:Пуперы "wikilink")
