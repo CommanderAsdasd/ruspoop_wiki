@@ -5,3 +5,4 @@ layout: wiki
 ---
 
 [канал](https://www.youtube.com/user/1T1immy)
+[Категория:Пуперы](Категория:Пуперы "wikilink")
