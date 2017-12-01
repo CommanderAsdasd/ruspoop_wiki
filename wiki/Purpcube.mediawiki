@@ -1,5 +1,17 @@
-{{DISPLAYTITLE:limpquil}}
-
-корсак
+{{Инфобокс для пуперов
+|title2=Limpquil
+|другие_ники=corsac, shmachnik 
+|image3=[[Файл:Limpquil.jpg|thumb|left|200px]]
+|сферы_творчества=RYTPMV
+|год_начала=2012
+|image4=Пример
+|имя_фамилия=
+|дата_рождения=
+|место_проживания=
+|ссылки=
+*[https://www.youtube.com/user/Shma4nik YouTube]
+*[https://www.youtube.com/user/5Hman corsac]
+*[https://vk.com/limpquil Группа ВК]
+}}
 [[Категория:Пуперы]]
 [[Категория:Музпуперы]]
