@@ -8,6 +8,8 @@
 |имя_фамилия=Егор Мироненко
 |дата_рождения=Пример
 |место_проживания=Пример
-|ссылки=[https://www.youtube.com/user/TheRealYogiTheWisest Yogi The Wise], [https://www.youtube.com/user/YogiTheWise Заброшенный канал]
+|ссылки=
+*[https://www.youtube.com/user/TheRealYogiTheWisest Yogi The Wise]
+*[https://www.youtube.com/user/YogiTheWise Заброшенный канал]
 }}
 [[Категория:Пуперы]]
