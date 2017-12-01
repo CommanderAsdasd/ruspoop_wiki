@@ -1,2 +1,17 @@
-Пупер, но еще стример, но еще пупер
+{{Инфобокс для пуперов
+|title2=Sg. Bash
+|другие_ники=
+|image3=[[Файл:Sg._Bash.jpg|thumb|left|200px]]
+|сферы_творчества=RYTP, Стримы
+|год_начала=25 сент. 2013 г.
+|image4=[[Файл:Александр_Косырев.jpg|thumb|left|200px]]
+|имя_фамилия=Александр Косырев
+|дата_рождения=11 октября 1989 г.
+|место_проживания=Тольятти
+|ссылки=
+*[https://www.youtube.com/user/Sgbash64Rus YouTube]
+*[https://www.twitch.tv/sgbash Twitch]
+*[https://www.last.fm/ru/user/Sgbash LastFM]
+*[https://ask.fm/Sgbash askFM]
+}}
 [[Категория:Пуперы]]
