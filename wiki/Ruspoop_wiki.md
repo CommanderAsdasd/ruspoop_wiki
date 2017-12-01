@@ -35,10 +35,10 @@ layout: wiki
 
 </div>
 
-[thumb\|left\|25px](Файл:Vk_icon-icons.com_66681.png "wikilink") [Наша
-группа](https://vk.com/ruspoopwiki)
+### [thumb\|left\|25px](Файл:Vk_icon-icons.com_66681.png "wikilink")[Наша группа](https://vk.com/ruspoopwiki)
 
 ------------------------------------------------------------------------
 
-[thumb\|left\|25px](Файл:Vk_icon-icons.com_66681.png "wikilink") [Группа
-пупов](https://vk.com/russianpoop) <mainpage-endcolumn/>
+### [thumb\|left\|25px](Файл:Vk_icon-icons.com_66681.png "wikilink")[Группа пупов](https://vk.com/russianpoop)
+
+<mainpage-endcolumn/>
