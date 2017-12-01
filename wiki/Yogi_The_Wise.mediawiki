@@ -4,12 +4,13 @@
 |image3=[[Файл:Yogi_The_Wise.jpg|thumb|left|200px]]
 |сферы_творчества=RYTP, Стримы, Летсплеи
 |год_начала=2010
-|image4=Пример
+|image4=[[Файл:Егор_Мироненко.jpg|thumb|left|200px]]
 |имя_фамилия=Егор Мироненко
-|дата_рождения=Пример
-|место_проживания=Пример
+|дата_рождения=27 ноября 1992 г.
+|место_проживания=Киев
 |ссылки=
 *[https://www.youtube.com/user/TheRealYogiTheWisest Yogi The Wise]
 *[https://www.youtube.com/user/YogiTheWise Заброшенный канал]
+*[https://vk.com/ytwmm Паблик ВК]
 }}
 [[Категория:Пуперы]]
