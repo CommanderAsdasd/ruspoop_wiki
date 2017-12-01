@@ -1,3 +1,19 @@
-делал годноту. Сейчас вроде занимается озвучкой роликов
+{{Инфобокс для пуперов
+|title2=Пример
+|другие_ники=MechaShadowVO
+|image3=[[Файл:E253MechaShadow.jpg|thumb|left|200px]]
+|сферы_творчества=RYTP, RYTPMV, Озвучка
+|год_начала=2011
+|image4=[[Файл:Андрей_Гладков.jpg|thumb|left|200px]]
+|имя_фамилия=Андрей Гладков
+|дата_рождения=28 июля
+|место_проживания=Самара
+|ссылки=[https://vk.com/e253mechashadow Страница ВК] 
+[https://vk.com/e253mechashadowden Группа озвучки] 
+[https://www.youtube.com/user/E253MechaShadow YouTube] 
+[https://www.youtube.com/channel/UCuN81yyJVv2qAbHlCSPgtcg Канал озвучки] 
+[https://www.twitch.tv/e253mechashadow Twitch] 
+[https://www.patreon.com/mechashadowvo Patreon] 
+}}
 [[Категория:Пуперы]]
 [[Категория:Музпуперы]]
