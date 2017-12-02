@@ -1,7 +1,7 @@
 {{Инфобокс для пуперов
 |title2=/gfoint
 |другие_ники=TooDamnFointie
-|image3=[[Файл:Gfoint.jpg|thumb|200px]]
+|image3=[[Файл:Gfoint.jpg|thumb|500px]]
 |сферы_творчества=RYTP, RYTPMV, Стримы
 |год_начала=2011
 |image4=[[Файл:Игорь_Кульминский.jpg|thumb|200px]]
