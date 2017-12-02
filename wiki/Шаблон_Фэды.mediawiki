@@ -1,0 +1,21 @@
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption1"/>
+  </image>
+  <data source="плейлист">
+    <label>Плейлист</label>
+  </data>
+</infobox>
+<noinclude>
+Пример использования:<pre>
+{{Фэды
+|title1=Пример
+|image1=Пример
+|caption1=Пример
+|плейлист=Пример
+}}
+</pre>
+</noinclude>
