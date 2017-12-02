@@ -1,7 +1,7 @@
 {{Инфобокс для пуперов
 |title2=E253MechaShadow
 |другие_ники=MechaShadowVO
-|image3=[[Файл:E253MechaShadow.jpg|thumb|left|200px]]
+|image3=[[Файл:E253MechaShadow.jpg|thumb|left|250px]]
 |сферы_творчества=RYTP, RYTPMV, Озвучка
 |год_начала=2011
 |image4=[[Файл:Андрей_Гладков.jpg|thumb|left|200px]]
