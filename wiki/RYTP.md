@@ -6,6 +6,7 @@ layout: wiki
 
 ## Определение
 
+<img src="Пупы.jpg" title="fig:Пупы.jpg" width="300" height="300" alt="Пупы.jpg" />
 **Russian YouTube Poop** (**RYTP**) — русскоязычные видео в жанре
 YouTube Poop. Представляют из себя изменение
 оригинальных [сурсов](http://ru.ruspoop.wikia.com/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D1%8B) с
