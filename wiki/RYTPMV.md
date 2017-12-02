@@ -4,6 +4,8 @@ permalink: wiki/RYTPMV/
 layout: wiki
 ---
 
+[thumb\|left\|300px](Файл:Hdq460G7IFM.jpg "wikilink")
+
 ## Что же они из себя представляют?
 
 Это ответвление от обычных пупов, представляющее из себя нарезку из
