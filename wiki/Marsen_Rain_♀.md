@@ -4,7 +4,6 @@ permalink: wiki/Marsen_Rain_♀/
 layout: wiki
 ---
 
-<img src="D5obGRBr_fs.jpg" title="fig:D5obGRBr_fs.jpg" width="220" height="220" alt="D5obGRBr_fs.jpg" />
 Канал создан 8 сентября 2015 г.
 
 Первый пуп **Несносные
