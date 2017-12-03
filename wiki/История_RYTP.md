@@ -16,19 +16,19 @@ TAIL](https://youtu.be/suSSdHr8sog)».
 
 Цитата из опписания:
 
-"This is the mother of all these stupid videos. If you are one of the
-many who make Robotnik/Mario/etc movies like these, then you owe it to
-yourself to watch the one and only original. \<blockquote\>Anyways, this
-was made on December 22, 2004. I had recently installed Windows XP on my
-computer (I had Windows 98 from 2000-around that week) and noticed the
-program Windows Movie Maker. I didn't know what the hell it did, so I
-imported Recycled Koopa, and this is the result. Originally titled "The
-Adventures of Super Mario Bros. 3 REMIXED!!!", I submitted it to
-Sheezyart and people loved it. The only thing I changed was the ending
-as the original ended with "You know where this is going, don't you?"
-along with credits, as if I would want recognition for this. Otherwise,
-the video is completley untouched. Wow this is a long
-description.\</blockquote\>
+> This is the mother of all these stupid videos. If you are one of the
+> many who make Robotnik/Mario/etc movies like these, then you owe it to
+> yourself to watch the one and only original. Anyways, this was made on
+> December 22, 2004. I had recently installed Windows XP on my computer
+> (I had Windows 98 from 2000-around that week) and noticed the program
+> Windows Movie Maker. I didn't know what the hell it did, so I imported
+> Recycled Koopa, and this is the result. Originally titled "The
+> Adventures of Super Mario Bros. 3 REMIXED!!!", I submitted it to
+> Sheezyart and people loved it. The only thing I changed was the ending
+> as the original ended with "You know where this is going, don't you?"
+> along with credits, as if I would want recognition for this.
+> Otherwise, the video is completley untouched. Wow this is a long
+> description.
 
 Как ни странно, видео породило множество последователей, которые
 приобщились к этому делу и случайно создали целый жанр.
@@ -63,4 +63,4 @@ poop).
 удалена](Удаление_оригинальной_группы_пупов "wikilink") и теперь роль
 основной группы взяла на себя бывшая группа-хранилище пупов, куда
 загружались лучшие работы. 
-<img src="ApsfpeivEpk.jpg" title="fig:ApsfpeivEpk.jpg" width="500" height="500" alt="ApsfpeivEpk.jpg" /> 
+<img src="ApsfpeivEpk.jpg" title="fig:ApsfpeivEpk.jpg" width="500" height="500" alt="ApsfpeivEpk.jpg" />
