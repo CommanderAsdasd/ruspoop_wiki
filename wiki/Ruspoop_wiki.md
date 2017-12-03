@@ -32,6 +32,10 @@ layout: wiki
 
 </div>
 
+4iiQFSjz0As.jpg BqopE0PUTX4.jpg ek5F_pYBKso.jpg f7t3ifQiEb4.jpg
+FhCEaSPw2eA.jpg fVNz5ZlDl8M.jpg kAiB8-kwWFU.jpg qFr-MoYPUzI.jpg
+W76kwyWl3Z0.jpg Xyr1jhOF8pU.jpg
+
 <mainpage-endcolumn/> <mainpage-rightcolumn-start/>
 
 <div style="border:1px solid #4d3f68; background:#4d3f68; text-align:center; font-size:150%; color:#cccccc">
@@ -40,4 +44,4 @@ layout: wiki
 
 </div>
 
-<activityfeed size="5" shortlist="false"></activityfeed>
+<activityfeed size="15" shortlist="true"></activityfeed>
