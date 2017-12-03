@@ -8,7 +8,7 @@ layout: wiki
 мало, больше любил посмотреть. Постепенно приобщился к музпупам. Видео
 выпускает очень редко.
 
-Первый теннис [thumb\|left\|500
-px](Файл:Unknowntennis.exe_RYTP_Tennis "wikilink")
+Первый теннис
+[thumb\|450x450px\|none](Файл:Unknowntennis.exe_RYTP_Tennis "wikilink")
 [Категория:Пуперы](Категория:Пуперы "wikilink")
 [Категория:Музпуперы](Категория:Музпуперы "wikilink")
