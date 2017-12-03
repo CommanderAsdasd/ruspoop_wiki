@@ -4,4 +4,5 @@ permalink: wiki/LolRuStuff/
 layout: wiki
 ---
 
-непризнанный гений [Категория:Пуперы](Категория:Пуперы "wikilink")
+<https://www.youtube.com/channel/UCujLNjkb01Wl7sgLPbPsPBQ> непризнанный
+гений [Категория:Пуперы](Категория:Пуперы "wikilink")
