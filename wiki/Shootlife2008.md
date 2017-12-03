@@ -4,6 +4,5 @@ permalink: wiki/Shootlife2008/
 layout: wiki
 ---
 
-был пенек и нет пенька...
-
-Любит яблоки. [Категория:Пуперы](Категория:Пуперы "wikilink")
+<https://www.youtube.com/user/Shootlife2008>
+[Категория:Пуперы](Категория:Пуперы "wikilink")
