@@ -1,5 +1,5 @@
 {{Инфобокс для пуперов
-|title2=Lonrefne
+|title2=lonrefne
 |image3=[[Файл:Lonrefne.jpg|thumb]]
 |другие_ники=InFeRnAl_KiD
 |сферы_творчества=RYTP, RYTPMV
@@ -10,7 +10,11 @@
 |место_проживания=
 |ссылки=
 *[https://www.youtube.com/lonrefne YouTube]
+
 *[https://www.youtube.com/channel/UCEmPuGYVV9jSAU0fzH6UOcw Альт. канал]
+
+*[https://www.youtube.com/channel/UCbrL62RyRbQBlOE0IqBCaWg RYTPMV]
+
 *[https://vk.com/infernol_dick Группа ВК]
 }}
 
