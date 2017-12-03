@@ -1,7 +1,7 @@
 {{Инфобокс для пуперов
 |title2=megahitmen
 |другие_ники=
-|image3=
+|image3=[[Файл:Megahitmen.jpg|left]]
 |сферы_творчества=RYTP, видеоарт
 |год_начала=2012
 |image4=
