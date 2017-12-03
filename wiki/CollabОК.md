@@ -13,3 +13,5 @@ layout: wiki
 Ники участников часто указаны в искажённом виде (например,
 **[tig](tig "wikilink")** — **pig**,
 **[octagoncoil](octagoncoil "wikilink")** — **mochegonfail**).
+
+[Категория:Пупы](Категория:Пупы "wikilink")
