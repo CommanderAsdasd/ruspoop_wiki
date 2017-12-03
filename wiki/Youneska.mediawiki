@@ -2,16 +2,16 @@
 {{Инфобокс для пуперов
 |title2=- ̗̀Youneska ̖́-
 |другие_ники=
-|image3=
-|caption3=
+|image3=[[Файл:-_̗̀Youneska_̖́-.jpg|left]]
 |сферы_творчества=RYTP
-|год_начала=
+|год_начала=26 нояб. 2012 г.
 |image4=
-|caption4=
 |имя_фамилия=
 |дата_рождения=
 |место_проживания=
-|ссылки=[https://www.youtube.com/channel/UC7dz9WLpNdhPDttzVONIX9Q канал]
-
+|ссылки=
+*[https://www.youtube.com/channel/UC7dz9WLpNdhPDttzVONIX9Q канал]
 }}
+
+Любит фэды и коллабы.
 [[Категория:Пуперы]]
