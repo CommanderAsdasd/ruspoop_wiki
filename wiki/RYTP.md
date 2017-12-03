@@ -28,4 +28,3 @@ YouTube Poop. Представляют из себя изменение
 [thumb\|335 px\|noneСборник](Файл:Сборник_ПУПов "wikilink") пупов и
 музпупов 2012 года
 от [Shootlife2008](http://ru.ruspoop.wikia.com/wiki/Shootlife2008)
-<img src="ApsfpeivEpk.jpg" title="fig:ApsfpeivEpk.jpg" width="500" height="500" alt="ApsfpeivEpk.jpg" />
