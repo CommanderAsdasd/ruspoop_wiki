@@ -1,5 +1,19 @@
-визуалочки
-
+{{Инфобокс для пуперов
+|title2=Cinematron
+|другие_ники=Anton.чиque
+|image3=[[Файл:Cinematron.jpg|left]]
+|сферы_творчества=RYTP
+|год_начала=13 сент. 2013 г.
+|image4=
+|имя_фамилия=
+|дата_рождения=
+|место_проживания=
+|ссылки=
+*[https://www.youtube.com/channel/UCswNAhhsm1RSeb3E3n9XgUQ Канал]
+*[https://www.youtube.com/channel/UCSj7sPeBFp5pXX39JOlNmxA Альт]
+*[https://vk.com/cnmtrnpubl Паблик]
+*[https://soundcloud.com/cinematron Soundcloud]
+}}
 [[Категория:Пуперы]]
 [[Категория:Визуальщики]]
 [[Категория:Экспериментаторы]]
