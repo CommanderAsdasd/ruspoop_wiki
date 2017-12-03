@@ -1,2 +1,20 @@
-https://www.youtube.com/wasya
+{{Инфобокс для пуперов
+|title2=/wasya
+|другие_ники=w45ya
+|image3=[[Файл:Wasya.jpg|thumb]]
+|caption3=
+|сферы_творчества=RYTP, Переводы вебкомиксов и субтитров
+|год_начала=Как пупер: 14 мая 2014
+Как переводчик: 23 янв 2016
+|image4=[[Файл:WasyaOldLogo.png|thumb]]
+|caption4=Старый логотип 
+|имя_фамилия=Андрей Васёвских
+|дата_рождения=
+|место_проживания=
+|ссылки=
+*[https://www.youtube.com/wasya YouTube]
+*[https://www.youtube.com/channel/UCvRNKNOFh1ZWyRez-Ipyf5g Альт канал]
+*[https://vk.com/w45ya Профиль ВК]
+*[https://vk.com/w45ya_rytp Группа ВК]
+}}
 [[Категория:Пуперы]]
