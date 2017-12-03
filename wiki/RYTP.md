@@ -25,7 +25,7 @@ YouTube Poop. Представляют из себя изменение
 
 ## Примеры
 
-Сборник пупов и музпупов 2012 года
+[thumb\|335 px\|noneСборник](Файл:Сборник_ПУПов "wikilink") пупов и
+музпупов 2012 года
 от [Shootlife2008](http://ru.ruspoop.wikia.com/wiki/Shootlife2008)
-
-[thumb\|left\|335 px](Файл:Сборник_ПУПов "wikilink")
+<img src="ApsfpeivEpk.jpg" title="fig:ApsfpeivEpk.jpg" width="500" height="500" alt="ApsfpeivEpk.jpg" />
