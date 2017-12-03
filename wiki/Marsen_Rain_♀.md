@@ -4,6 +4,7 @@ permalink: wiki/Marsen_Rain_♀/
 layout: wiki
 ---
 
+<img src="D5obGRBr_fs.jpg" title="fig:D5obGRBr_fs.jpg" width="220" height="220" alt="D5obGRBr_fs.jpg" />
 Первый пуп **Несносные
 говнари**[1](https://www.youtube.com/watch?v=CC0FtzWBBmk) был выпущен 11
 окт 2015, после чего заблокирован правообладателями. После чего она
