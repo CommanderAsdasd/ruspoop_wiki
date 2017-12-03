@@ -12,7 +12,7 @@ layout: wiki
 '''
 
 </div>
-<div style="border:1px solid #000000; background:#сссссс; text-align:center; font-size:120%; color:#000000">
+<div style="border:4px solid #000000; background:#сссссс; text-align:center; font-size:110%; color:#000000">
 
 **Вы находитесь на официальной вики RYTP, где вы сможете узнать все о
 нем.**
