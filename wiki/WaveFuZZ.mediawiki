@@ -1,13 +1,13 @@
 {{Инфобокс для пуперов
 |title2=WaveFuZZ
-|другие_ники=
-|image3=
+|другие_ники=nick97ftgun
+|image3=[[Файл:WaveFuZZ.jpg|left]]
 |сферы_творчества=RYTPMV
-|год_начала=
+|год_начала=2013
 |image4=
 |имя_фамилия=Роман Канаев
 |дата_рождения=
-|место_проживания=
+|место_проживания=Тамбов
 |ссылки=
 *[https://www.youtube.com/channel/UCQ0hDNwxz_orFUAtV6t1EaA WaveFuZZ] 
 *[https://www.youtube.com/channel/UCsRuJSVxoi6cYnMCOaIvMvw FuZZalt]
