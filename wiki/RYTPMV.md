@@ -22,3 +22,7 @@ Shift. На выходе могут быть совершенно разные �
 -   [RYTPMV 2014](https://www.youtube.com/watch?v=PTQCsMaZ9VI)
 -   [RYTPMV 2015](https://www.youtube.com/watch?v=IfUQSom0c2w)
 -   [RYTPMV 2016](https://www.youtube.com/watch?v=_Xjdk2m9EHc&t=160s)
+
+------------------------------------------------------------------------
+
+[История RYTPMV](История_RYTPMV "wikilink")
