@@ -4,28 +4,35 @@ permalink: wiki/Marsen_Rain_♀/
 layout: wiki
 ---
 
-Канал создан 8 сентября 2015 г.
+**Marsen Rain** - девушка-пупер. Канал создан 8 сентября 2015 г.
 
 Первый пуп [**Несносные
 говнари**](https://www.youtube.com/watch?v=CC0FtzWBBmk) был выпущен 11
-окт 2015, после чего заблокирован правообладателями. После чего она
-перезалила его в группу вк,
+октября 2015, после чего был заблокирован правообладателями. Позже она
+перезалила его в группу ВК.
 
-Далее засветилась работа [**Геноцид от модных
-теток**](https://www.youtube.com/watch?v=SQLZLSe5Xrc&t)
+Далее вышла работа [**Геноцид от модных
+теток**](https://www.youtube.com/watch?v=SQLZLSe5Xrc&t).
 
-После чего на ее канале вышел сюжетный пуп из двух частей :[**Рон как
+После этого на её канале вышел сюжетный пуп из двух частей:[**Рон как
 тебе гниет в карманах
-старка**](https://www.youtube.com/watch?v=DhDIDEKoeT8&t) и [**Флешбеки
-карманного измерения**](https://www.youtube.com/watch?v=JQcTAFku8dE)
+старка**](https://www.youtube.com/watch?v=DhDIDEKoeT8) и [**Флешбеки
+карманного измерения**](https://www.youtube.com/watch?v=JQcTAFku8dE).
 
-Также участвавала в коллабах: [**Битва на юморесках два на
-два**](https://www.youtube.com/watch?v=NBLPz8HU9-w) и [**5 min
-collab**](https://www.youtube.com/watch?v=l4ddzevXZJ8)
+Также участвовала в коллабах:
 
-Она удалила все ресурсы, единственное что осталось это частная группа
-вк.
+-   [**Битва на юморесках два на
+    два**](https://www.youtube.com/watch?v=NBLPz8HU9-w) (с
+    [Lolita](/wiki/Lolita "wikilink") и [Poopstream](Poopstream "wikilink"))
+-   [**Измерение Сломанных
+    Мультфильмов**](https://www.youtube.com/watch?v=87-vo0Rn41A) (с
+    [GTHO](/wiki/TheGetthehellout "wikilink"))
+-   [**5 min collab**](https://www.youtube.com/watch?v=l4ddzevXZJ8) (в
+    основном с членами Балкона)
 
-Канал удален 29 сентября 2017.
+Она удалила все ресурсы; единственное, что осталось - это частная группа
+ВК.
+
+Канал был удален 29 сентября 2017.
 [Категория:Пуперы](Категория:Пуперы "wikilink")
 [Категория:Пуперы-девушки](Категория:Пуперы-девушки "wikilink")
