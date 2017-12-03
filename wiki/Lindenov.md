@@ -4,4 +4,5 @@ permalink: wiki/Lindenov/
 layout: wiki
 ---
 
-пупер [Категория:Пуперы](Категория:Пуперы "wikilink")
+<https://www.youtube.com/user/mrpanterson> пупер
+[Категория:Пуперы](Категория:Пуперы "wikilink")
