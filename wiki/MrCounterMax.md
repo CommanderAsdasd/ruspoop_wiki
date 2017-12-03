@@ -9,6 +9,6 @@ layout: wiki
 выпускает очень редко.
 
 Первый теннис
-[thumb\|450x450px\|none](Файл:Unknowntennis.exe_RYTP_Tennis "wikilink")
+[thumb\|300x300px\|none](Файл:Unknowntennis.exe_RYTP_Tennis "wikilink")
 [Категория:Пуперы](Категория:Пуперы "wikilink")
 [Категория:Музпуперы](Категория:Музпуперы "wikilink")
