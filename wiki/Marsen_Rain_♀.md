@@ -20,3 +20,5 @@ layout: wiki
 Также участвавала в коллабах: **Битва на юморесках два на два \[RYTP
 Collab\]**[5](https://www.youtube.com/watch?v=NBLPz8HU9-w) и **5 min
 collab**[6](https://www.youtube.com/watch?v=l4ddzevXZJ8)
+[Категория:Пуперы](Категория:Пуперы "wikilink")
+[Категория:Пуперы-девушки](Категория:Пуперы-девушки "wikilink")
