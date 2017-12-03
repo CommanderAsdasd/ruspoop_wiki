@@ -4,7 +4,7 @@ permalink: wiki/RYTPMV/
 layout: wiki
 ---
 
-[thumb\|300px\|none](Файл:Hdq460G7IFM.jpg "wikilink")
+[thumb\|500x500px\|none](Файл:Hdq460G7IFM.jpg "wikilink")
 
 ## Что же они из себя представляют?
 
