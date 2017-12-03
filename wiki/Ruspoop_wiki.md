@@ -12,6 +12,7 @@ layout: wiki
 '''
 
 </div>
+<div style="border:1px solid #000000; background:#сссссс; text-align:center; font-size:120%; color:#000000">
 
 **Вы находитесь на официальной вики RYTP, где вы сможете узнать все о
 нем.**
@@ -19,7 +20,10 @@ layout: wiki
 На данный момент создано [](Служебная:Allpages "wikilink") и Вы можете
 помочь, дополняя страницы новой информацией
 
-[Благодарности](Благодарности "wikilink")
+[Благодарности](Благодарности "wikilink")  
+'''
+
+</div>
 
 <mainpage-endcolumn/> <mainpage-rightcolumn-start/>
 

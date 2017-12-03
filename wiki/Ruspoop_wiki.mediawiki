@@ -2,11 +2,13 @@
 
 <div style="border:4px solid #000000; background:#4d3f68; text-align:center; font-size:150%; color:#cccccc">'''Здравствуйте, дорогие друзья'''<br />'''</div>
 
+<div style="border:1px solid #000000; background:#сссссс; text-align:center; font-size:120%; color:#000000">
 '''Вы находитесь на официальной вики RYTP, где вы сможете узнать все о нем.'''
 
 На данный момент создано [[Служебная:Allpages|{{NUMBEROFARTICLES}}]] {{plural:{{NUMBEROFARTICLES}}|статья|статьи|статей}} и Вы можете помочь, дополняя страницы новой информацией
 
 [[Благодарности]]
+<br />'''</div>
 
 <mainpage-endcolumn/>
 <mainpage-rightcolumn-start/>
