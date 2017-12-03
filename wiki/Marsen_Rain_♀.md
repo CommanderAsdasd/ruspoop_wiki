@@ -5,6 +5,8 @@ layout: wiki
 ---
 
 <img src="D5obGRBr_fs.jpg" title="fig:D5obGRBr_fs.jpg" width="220" height="220" alt="D5obGRBr_fs.jpg" />
+Канал создан 8 сентября 2015 г.
+
 Первый пуп **Несносные
 говнари**[1](https://www.youtube.com/watch?v=CC0FtzWBBmk) был выпущен 11
 окт 2015, после чего заблокирован правообладателями. После чего она
@@ -23,5 +25,8 @@ Collab\]**[5](https://www.youtube.com/watch?v=NBLPz8HU9-w) и **5 min
 collab**[6](https://www.youtube.com/watch?v=l4ddzevXZJ8)
 
 Она удалила все ресурсы, единственное что осталось это частная группа
-вк. [Категория:Пуперы](Категория:Пуперы "wikilink")
+вк.
+
+Канал удален 29 сентября 2017.
+[Категория:Пуперы](Категория:Пуперы "wikilink")
 [Категория:Пуперы-девушки](Категория:Пуперы-девушки "wikilink")
