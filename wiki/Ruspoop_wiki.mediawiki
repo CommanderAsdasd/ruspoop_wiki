@@ -7,14 +7,8 @@
 
 На данный момент создано [[Служебная:Allpages|{{NUMBEROFARTICLES}}]] {{plural:{{NUMBEROFARTICLES}}|статья|статьи|статей}} и Вы можете помочь, дополняя страницы новой информацией
 <div style="border:0px solid #4d3f68; background:#4d3f68; text-align:center; font-size:150%; color:#cccccc">Ссылки</div> 
-[[Благодарности]] | [https://vk.com/ruspoopwiki Наша группа] | [https://vk.com/russianpoop Группа пупов]
-<br />'''</div>
-
-<gallery type="slider" orientation="bottom">
-Hdq460G7IFM.jpg
-CgzhOeE8qFs.jpg
-Пупы.jpg
-</gallery>
+[[Благодарности]] | [https://vk.com/ruspoopwiki Наша группа] | [https://vk.com/russianpoop Группа пупов]'''<nowiki/>'''
+</div>
 
 <mainpage-endcolumn/>
 <mainpage-rightcolumn-start/>

@@ -28,12 +28,9 @@ layout: wiki
 
 [Благодарности](Благодарности "wikilink") \| [Наша
 группа](https://vk.com/ruspoopwiki) \| [Группа
-пупов](https://vk.com/russianpoop)  
-'''
+пупов](https://vk.com/russianpoop)
 
 </div>
-
-Hdq460G7IFM.jpg CgzhOeE8qFs.jpg Пупы.jpg
 
 <mainpage-endcolumn/> <mainpage-rightcolumn-start/>
 
