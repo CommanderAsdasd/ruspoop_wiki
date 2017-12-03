@@ -4,7 +4,6 @@ permalink: wiki/Lump1/
 layout: wiki
 ---
 
-крутой
-
+<https://www.youtube.com/user/Lump11337> крутой
 [Категория:Пуперы](Категория:Пуперы "wikilink")
 [Категория:Визуальщики](Категория:Визуальщики "wikilink")
