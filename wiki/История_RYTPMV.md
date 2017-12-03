@@ -4,7 +4,7 @@ permalink: wiki/История_RYTPMV/
 layout: wiki
 ---
 
-[thumb\|400px](Файл:YTPMV.jpg "wikilink")
+[thumb\|400px\|none](Файл:YTPMV.jpg "wikilink")
 
 ## Немного истории
 
