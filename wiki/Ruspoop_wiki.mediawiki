@@ -5,6 +5,9 @@
 '''Вы находитесь на официальной вики RYTP, где вы сможете узнать все о нем.'''
 
 На данный момент создано [[Служебная:Allpages|{{NUMBEROFARTICLES}}]] {{plural:{{NUMBEROFARTICLES}}|статья|статьи|статей}} и Вы можете помочь, дополняя страницы новой информацией
+[[File:2017-12-03 15-23-31.png|none|thumb|500x500px]]
+
+[[Благодарности]]
 
 <mainpage-endcolumn/>
 <mainpage-rightcolumn-start/>
