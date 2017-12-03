@@ -22,7 +22,7 @@ layout: wiki
 
 <div style="border:0px solid #4d3f68; background:#4d3f68; text-align:center; font-size:150%; color:#cccccc">
 
-**Ссылки**
+Ссылки
 
 </div>
 
@@ -37,7 +37,7 @@ layout: wiki
 
 <div style="border:1px solid #4d3f68; background:#4d3f68; text-align:center; font-size:150%; color:#cccccc">
 
-**Последние правки**
+Последние правки
 
 </div>
 
