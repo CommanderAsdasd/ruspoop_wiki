@@ -1,6 +1,6 @@
 {{Инфобокс для пуперов
 |title2=Usualignat
-|другие_ники=PavelTheIgnat, USLIGN, seriousignat (устаревший)
+|другие_ники=PavelTheIgnat, USLIGN, seriousignat
 |image3=[[Файл:Usualignat.jpg|thumb]]
 |сферы_творчества=RYTP
 |год_начала=2014 год
@@ -11,4 +11,7 @@
 |ссылки=
 *[https://www.youtube.com/user/Usualignat YouTube]
 *[https://vk.com/uslignpub Группа ВК]
-}}Ленивый неисправим.[[Категория:Пуперы]]
+}}Ленивый неисправим.
+
+'''Usualignat''' - пупер, известен также как организатор коллабов.
+[[Категория:Пуперы]]
