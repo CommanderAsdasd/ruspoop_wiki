@@ -12,7 +12,8 @@ layout: wiki
 перезалила его в группу ВК.
 
 Вторым по счёту пупом был **[Трах и ненависть по ту сторону
-гробницы](https://www.youtube.com/watch?v=xRQ3JCO-5og)**
+гробницы](https://www.youtube.com/watch?v=xRQ3JCO-5og)**, который был
+цензурирован автором из-за плохих шуток
 
 Далее вышла работа [**Геноцид от модных
 теток**](https://www.youtube.com/watch?v=SQLZLSe5Xrc&t).
