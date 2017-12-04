@@ -12,4 +12,4 @@ layout: wiki
 
 Алсо, появлялся в [1](https://www.youtube.com/watch?v=NcaOcNXVO18одном)
 из пупов [Multiprogramm](/wiki/Multiprogramm "wikilink"), где озвучил
-заставку.
+заставку. [Категория:Пуперы](Категория:Пуперы "wikilink")
