@@ -25,7 +25,6 @@ Usualignat 4 апреля 2016 года выпустил неофициальн�
 
 <img src="CollabOK_2_-_Перезалив_(без_Губки_Боба)" title="fig:2ый CollabOK" width="382" height="382" alt="2ый CollabOK" />
 <img src="RYTP_CollabОК" title="fig:1ый CollabOK" width="391" height="391" alt="1ый CollabOK" />
-<img src="CollabOK_3" title="fig:3ий CollabOK" width="397" height="397" alt="3ий CollabOK" />
 <img src="CollabOK_3" title="fig:3ий CollabOK" width="391" height="391" alt="3ий CollabOK" />
 <img src="CollabOK_IV" title="fig:4ий CollabOK (На данный момент, последний)" width="377" height="377" alt="4ий CollabOK (На данный момент, последний)" />
 [Категория:Пупы](Категория:Пупы "wikilink")
