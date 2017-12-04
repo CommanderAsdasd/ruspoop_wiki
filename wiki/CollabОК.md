@@ -29,3 +29,4 @@ layout: wiki
 <img src="CollabOK_3" title="fig:Третий CollabOK" width="323" height="323" alt="Третий CollabOK" /><img src="CollabOK_IV" title="fig:Четвёртый CollabOK, на данный момент последний" width="309" height="309" alt="Четвёртый CollabOK, на данный момент последний" />
 <img src="СВИНКА_ГОМУНКУЛ_RYTP_COLLAB_ритп_пуп_руспуп_коллаб_приколы)))))))))" title="fig:Тот самый неофициальный спин-офф." width="330" height="330" alt="Тот самый неофициальный спин-офф." />
 [Категория:Пупы](Категория:Пупы "wikilink")
+[Категория:Коллабы](Категория:Коллабы "wikilink")
