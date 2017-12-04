@@ -10,6 +10,6 @@ layout: wiki
 дубляже мультсериала Sonic Boom и пилит орижинал контент, но ролики на
 канале появляются довольно редко.
 
-Алсо, появлялся в [1](https://www.youtube.com/watch?v=NcaOcNXVO18одном)
+Алсо, появлялся в [одном](https://www.youtube.com/watch?v=NcaOcNXVO18)
 из пупов [Multiprogramm](/wiki/Multiprogramm "wikilink"), где озвучил
 заставку. [Категория:Пуперы](Категория:Пуперы "wikilink")
