@@ -12,7 +12,7 @@ layout: wiki
 перезалила его в группу ВК.
 
 Вторым по счёту пупом был "Трах и ненависть по ту сторону гробницы",
-который был выпилен автором.
+который был выпилен автором из-за "плохих шуток".
 
 Далее вышла работа [**Геноцид от модных
 теток**](https://www.youtube.com/watch?v=SQLZLSe5Xrc&t).
@@ -23,10 +23,8 @@ layout: wiki
 **[**Флешбеки карманного
 измерения**](https://www.youtube.com/watch?v=JQcTAFku8dE)** '''
 
-Также участвовала в
-
-☀\[https://www.youtube.com/watch?v=NmeKvFWubfc Light Mem Tennis'e\] и в
-коллабах:
+Также участвовала в [**Light Mem
+Tennis'e**](https://www.youtube.com/watch?v=NmeKvFWubfc) и в коллабах:
 
 -   [**Битва на юморесках два на
     два**](https://www.youtube.com/watch?v=NBLPz8HU9-w) (с
