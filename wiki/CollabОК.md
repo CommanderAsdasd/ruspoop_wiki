@@ -17,12 +17,15 @@ layout: wiki
 
 ## Похожие коллабы
 
-[Usualignat](/wiki/Usualignat "wikilink") 4 апреля 2016 года выпустил
-неофициальный CollabOK под названием "СВИНКА ГОМУНКУЛ RYTP COLLAB ритп
-пуп руспуп коллаб приколы)))))))))".
+[Usualignat](/wiki/Usualignat "wikilink") 4 апреля 2016 года по причине
+долгого простаивания этой серии коллабов выпустил "спин-офф" под
+названием "СВИНКА ГОМУНКУЛ RYTP COLLAB ритп пуп руспуп коллаб
+приколы)))))))))".
 
 ## Видео
 
-<img src="RYTP_CollabОК" title="fig:1ый CollabOK" width="319" height="319" alt="1ый CollabOK" />
-<img src="CollabOK_2_-_Перезалив_(без_Губки_Боба)" title="fig:Оригинал получил страйк" width="309" height="309" alt="Оригинал получил страйк" />
-<img src="CollabOK_3" title="fig:3ий CollabOK" width="323" height="323" alt="3ий CollabOK" /><img src="CollabOK_IV" title="fig:4ий CollabOK (На данный момент, последний)" width="309" height="309" alt="4ий CollabOK (На данный момент, последний)" />[Категория:Пупы](Категория:Пупы "wikilink")
+<img src="RYTP_CollabОК" title="fig:Первый CollabOK" width="319" height="319" alt="Первый CollabOK" />
+<img src="CollabOK_2_-_Перезалив_(без_Губки_Боба)" title="fig:Второй колабок, его перезалив. Оригинал получил страйк" width="309" height="309" alt="Второй колабок, его перезалив. Оригинал получил страйк" />
+<img src="CollabOK_3" title="fig:Третий CollabOK" width="323" height="323" alt="Третий CollabOK" /><img src="CollabOK_IV" title="fig:Четвёртый CollabOK, на данный момент последний" width="309" height="309" alt="Четвёртый CollabOK, на данный момент последний" />
+<img src="СВИНКА_ГОМУНКУЛ_RYTP_COLLAB_ритп_пуп_руспуп_коллаб_приколы)))))))))" title="fig:Тот самый неофициальный спин-офф." width="330" height="330" alt="Тот самый неофициальный спин-офф." />
+[Категория:Пупы](Категория:Пупы "wikilink")
