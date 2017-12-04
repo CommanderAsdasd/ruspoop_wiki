@@ -11,15 +11,22 @@ layout: wiki
 октября 2015, после чего был заблокирован правообладателями. Позже она
 перезалила его в группу ВК.
 
+Вторым по счёту пупом был "Трах и ненависть по ту сторону гробницы",
+который был выпилен автором.
+
 Далее вышла работа [**Геноцид от модных
 теток**](https://www.youtube.com/watch?v=SQLZLSe5Xrc&t).
 
 После этого на её канале вышел сюжетный пуп из двух частей: [**Рон как
 тебе гниет в карманах
-старка**](https://www.youtube.com/watch?v=DhDIDEKoeT8) и [**Флешбеки
-карманного измерения**](https://www.youtube.com/watch?v=JQcTAFku8dE).
+старка**](https://www.youtube.com/watch?v=DhDIDEKoeT8)''' и
+**[**Флешбеки карманного
+измерения**](https://www.youtube.com/watch?v=JQcTAFku8dE)** '''
 
-Также участвовала в коллабах:
+Также участвовала в
+
+☀\[https://www.youtube.com/watch?v=NmeKvFWubfc Light Mem Tennis'e\] и в
+коллабах:
 
 -   [**Битва на юморесках два на
     два**](https://www.youtube.com/watch?v=NBLPz8HU9-w) (с
