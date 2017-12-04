@@ -1,7 +1,7 @@
 {{Инфобокс для пуперов
 |title2=DBmain
 |image3=Photo.png
-|другие_ники=BENIZ2231, DBalt
+|другие_ники=BENIZ2231, DB, DBalt
 |сферы_творчества=RYTPMV
 |год_начала=2014 год
 |image4=
