@@ -31,7 +31,7 @@ layout: wiki
 
 -   [**Контора харизматичных
     отсылок**](https://www.youtube.com/watch?v=bX7DIsVJXMg)
--   **[Брутальный филлер](https://www.youtube.com/watch?v=bX7DIsVJXMg)**
+-   **[Брутальный филлер](https://www.youtube.com/watch?v=6_kF9C3Q0lg)**
 
 Также участвовала в [**Light Mem
 Tennis'e**](https://www.youtube.com/watch?v=NmeKvFWubfc) и в коллабах:
