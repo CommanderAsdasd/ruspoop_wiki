@@ -11,4 +11,4 @@ Sonic Boom и пилит орижинал контент, но ролике на
 довольно редко.
 
 Алсо, появлялся в [1](https://www.youtube.com/watch?v=NcaOcNXVO18одном)
-из пупов [Multiprogrmm](/wiki/Multiprogrmm "wikilink"), где озвучил заставку.
+из пупов [Multiprogramm](/wiki/Multiprogrmm "wikilink"), где озвучил заставку.
