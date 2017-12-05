@@ -4,4 +4,4 @@ permalink: wiki/Hegys/
 layout: wiki
 ---
 
-Hegys
+Hegys [Категория:Пуперы](Категория:Пуперы "wikilink")
