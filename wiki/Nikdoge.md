@@ -4,4 +4,4 @@ permalink: wiki/Nikdoge/
 layout: wiki
 ---
 
-Nikdoge
+Nikdoge [Категория:Пуперы](Категория:Пуперы "wikilink")
