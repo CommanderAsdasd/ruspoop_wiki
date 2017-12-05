@@ -4,4 +4,4 @@ permalink: wiki/GarryNobody/
 layout: wiki
 ---
 
-GarryNobody
+GarryNobody [Категория:Пуперы](Категория:Пуперы "wikilink")
