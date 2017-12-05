@@ -14,7 +14,7 @@ layout: wiki
 Shift. На выходе могут быть совершенно разные видео: от мемных "напевов"
 до серьёзных работ, в которых звучание окажется даже лучше, чем в
 оригинальной песне.
-<img src="HmJjuDQPlSk.jpg" title="fig:HmJjuDQPlSk.jpg" width="300" height="300" alt="HmJjuDQPlSk.jpg" />
+<img src="HmJjuDQPlSk.jpg" title="fig:HmJjuDQPlSk.jpg" width="500" height="500" alt="HmJjuDQPlSk.jpg" />
 
 ## Лучшие музпупы
 
