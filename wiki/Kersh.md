@@ -4,4 +4,4 @@ permalink: wiki/Kersh/
 layout: wiki
 ---
 
-здарова керш
+здарова керш [Категория:Пуперы](Категория:Пуперы "wikilink")
