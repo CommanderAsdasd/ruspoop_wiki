@@ -4,4 +4,4 @@ permalink: wiki/LegendsEater/
 layout: wiki
 ---
 
-LegendsEater
+LegendsEater [Категория:Пуперы](Категория:Пуперы "wikilink")
