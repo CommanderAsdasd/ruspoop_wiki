@@ -4,7 +4,7 @@ permalink: wiki/История_RYTPMV/
 layout: wiki
 ---
 
-[thumb\|400px\|none](Файл:YTPMV.jpg "wikilink")
+[thumb\|500x500px\|none](Файл:YTPMV.jpg "wikilink")
 
 ## Немного истории
 
@@ -13,4 +13,5 @@ layout: wiki
 начали делать в начале 10-х годов. К сожалению, часть из них сейчас уже
 не найти. Визуально они тогда не были столь яркими, т.к. над этим особо
 не заморачивались.
+<img src="HmJjuDQPlSk.jpg" title="fig:HmJjuDQPlSk.jpg" width="500" height="500" alt="HmJjuDQPlSk.jpg" />
 [thumb\|left\|300px](Файл:Один_из_музпупов_того_времени "wikilink")
