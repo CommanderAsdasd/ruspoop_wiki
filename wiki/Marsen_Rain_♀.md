@@ -4,7 +4,7 @@ permalink: wiki/Marsen_Rain_♀/
 layout: wiki
 ---
 
-**Marsen Rain** - девушка-пупер. Канал создан 8 сентября 2015 г.
+Канал '''Marsen Rain '''был создан 8 сентября 2015 г.
 
 Первый пуп [**Несносные
 говнари**](https://www.youtube.com/watch?v=CC0FtzWBBmk) был выпущен 11
@@ -13,7 +13,7 @@ layout: wiki
 
 Вторым по счёту пупом был **[Трах и ненависть по ту сторону
 гробницы](https://www.youtube.com/watch?v=xRQ3JCO-5og)**, который был
-цензурирован автором из-за плохих шуток
+цензурирован автором.
 
 Далее вышла работа [**Геноцид от модных
 теток**](https://www.youtube.com/watch?v=SQLZLSe5Xrc&t).
