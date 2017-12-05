@@ -14,6 +14,7 @@ layout: wiki
 YouTube Poop. Представляют из себя изменение
 оригинальных [сурсов](http://ru.ruspoop.wikia.com/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D1%8B) с
 помощью видеоредактора, обычно Sony Vegas Pro.
+<img src="4crYhoPzDe0.jpg" title="fig:4crYhoPzDe0.jpg" width="500" height="500" alt="4crYhoPzDe0.jpg" />
 
 ## Полезные ссылки
 
