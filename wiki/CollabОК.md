@@ -15,7 +15,7 @@ layout: wiki
 **[tig](tig "wikilink")** — **pig**,
 **[octagoncoil](octagoncoil "wikilink")** — **mochegonfail**).
 
-## Похожие коллабы
+## Неофициальный спин-офф
 
 [Usualignat](/wiki/Usualignat "wikilink") 4 апреля 2016 года по причине
 долгого простаивания этой серии коллабов выпустил "спин-офф" под
