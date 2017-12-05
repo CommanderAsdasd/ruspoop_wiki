@@ -1,15 +1,15 @@
 {{Инфобокс для пуперов
 |title2=pisok ̶R̶Y̶T̶P̶
-|другие_ники=
-|image3=[[Файл:Photo.jpg|thumb]]]
+|другие_ники=pisok shortz
+|image3=[[Файл:Photo.jpg|thumb]]<nowiki>]</nowiki>
 |caption3=
 |сферы_творчества=RYTP
 |год_начала=2014(?)
 |image4=
 |caption4=
-|имя_фамилия=
+|имя_фамилия=Вадим Феденко
 |дата_рождения=
-|место_проживания=
+|место_проживания=Харьков
 |ссылки=
 [https://www.youtube.com/channel/UCo7LOUIZTX4akO6iVmevV2w основной канал]
 [https://www.youtube.com/channel/UCAUqARF9YROCeSlCc4kAK1w/videos альт]
