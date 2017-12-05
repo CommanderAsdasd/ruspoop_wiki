@@ -4,4 +4,4 @@ permalink: wiki/Pisok_̶R̶Y̶T̶P̶/
 layout: wiki
 ---
 
-
+[Категория:Пуперы](Категория:Пуперы "wikilink")
