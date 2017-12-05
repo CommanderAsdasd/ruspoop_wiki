@@ -14,6 +14,9 @@ Lindr монтировала свои пупы в adobe premiere pro.
 \\RYTP/](https://www.youtube.com/watch?v=cdAIGt8ytYY) был опубликован 31
 декабря 2015 года.
 
+Учавствовала в [HOWOH MEM 6 \| RYTP
+COLLAB](https://www.youtube.com/watch?v=tn3vjr0ByJE&t=)
+
 [thumb\|right\|335px](Файл:GolodnbIe_Game_\RYTP-0 "wikilink")
 [Категория:Пуперы-девушки](Категория:Пуперы-девушки "wikilink")
 [Категория:Пуперы](Категория:Пуперы "wikilink")
