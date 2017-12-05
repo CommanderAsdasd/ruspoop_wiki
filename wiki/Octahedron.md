@@ -4,4 +4,4 @@ permalink: wiki/Octahedron/
 layout: wiki
 ---
 
-а
+а [Категория:Пуперы](Категория:Пуперы "wikilink")
