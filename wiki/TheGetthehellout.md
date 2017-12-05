@@ -13,7 +13,7 @@ layout: wiki
 ТВ](Пенёк_ТВ "wikilink"), ранее принадлежащего
 [Shootlife2008](/wiki/Shootlife2008 "wikilink").
 
-## Биография[Править](http://ru.youtubepoop.wikia.com/wiki/GetTheHellOut?action=edit&section=1)
+## Биография
 
 [thumb\|left\|100px](Файл:Gtho_old_logo.png "wikilink")
 
