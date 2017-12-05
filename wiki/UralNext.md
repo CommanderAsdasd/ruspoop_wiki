@@ -4,4 +4,4 @@ permalink: wiki/UralNext/
 layout: wiki
 ---
 
-аниме и милитари
+аниме и милитари [Категория:Пуперы](Категория:Пуперы "wikilink")
