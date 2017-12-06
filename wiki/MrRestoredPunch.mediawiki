@@ -1,7 +1,7 @@
 {{Инфобокс для пуперов
-|title2=MrRestoredPunch
+|title2=MrDeadlyPunch
 |другие_ники= ThisFuckinAccount
-MrDeadlyPunch
+MrRestoredPunch
 |image3=[[Файл:Photo_(1).jpg|thumb]]
 |caption3=
 |сферы_творчества=RYTP
