@@ -45,8 +45,9 @@ tennis**](http://ru.ruspoop.wikia.com/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81)
 день. Далее, его заметил
 [**Шмак**](http://ru.ruspoop.wikia.com/wiki/Limpquil), и в личке ютуба
 (в то время порошок не имел страницы вк, но по совету шмака
-зарегистрировался там) предложил ему теннис - [**Спонтанный Теннис \|
-RYTP
+зарегистрировался там) предложил ему т
+
+еннис - [**Спонтанный Теннис \| RYTP
 Tennis**](https://www.youtube.com/watch?v=M9IdRDNj91k&list=PL1tzuEjU1Y8vEOeJJPlv8t1h9WUSECj_S&index=60).
 Он и стал первым совместным теннисом порошка. Раунд порошка многим
 пришелся по нраву. Позднее, уже выше упомянутый framesecret нашел
@@ -58,7 +59,8 @@ Tennis**](https://www.youtube.com/watch?v=M9IdRDNj91k&list=PL1tzuEjU1Y8vEOeJJPlv
 
 ## **Самые известные работы**
 
-[**"HOWOH
+[thumb\|right\|193 px\|Вторая часть "Баллады о
+Баже"](Файл:Баллада_о_Баже_2_RYTP "wikilink") [**"HOWOH
 MEM"**](https://www.youtube.com/playlist?list=PL1tzuEjU1Y8tJrda4Ik2V4vTYrfY6JC-n)
 - Серия пупов, выполненных на один сурс - How Fast Make. Всего на данный
 момент вышло 6 частей, из которой две части -
@@ -69,11 +71,10 @@ MEM"**](https://www.youtube.com/playlist?list=PL1tzuEjU1Y8tJrda4Ik2V4vTYrfY6JC-n
 наиболее ярких работ порошка того времени.   [**"Например,
 Балкон"**](http://ru.ruspoop.wikia.com/wiki/%D0%91%D0%B0%D0%BB%D0%BA%D0%BE%D0%BD)
 - Теннис, организованный Mr.Zie Forever, хостом которого являлся
-порошок. Подробнее можете прочитать в статье о нем.[thumb\|right\|193
-px\|Вторая часть "Баллады о
-Баже"](Файл:Баллада_о_Баже_2_RYTP "wikilink") [thumb\|right\|192
+порошок. Подробнее можете прочитать в статье о нем.[thumb\|right\|192
 px\|Первая часть "Баллады о
 Баже"](Файл:Баллада_о_Баже_RYTP-0 "wikilink")<img src="Например_балкон_-_RYTP_TENNIS" title="fig:Например_балкон_-_RYTP_TENNIS" width="193" height="193" alt="Например_балкон_-_RYTP_TENNIS" />
+ 
 
 ## 
 
