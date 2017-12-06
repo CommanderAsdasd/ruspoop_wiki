@@ -15,3 +15,7 @@ layout: wiki
 не заморачивались.
 <img src="HmJjuDQPlSk.jpg" title="fig:HmJjuDQPlSk.jpg" width="500" height="500" alt="HmJjuDQPlSk.jpg" />
 [thumb\|left\|300px](Файл:Один_из_музпупов_того_времени "wikilink")
+
+## Яркие личности в RYTPMV по годам:
+
+вставить музпуперов
