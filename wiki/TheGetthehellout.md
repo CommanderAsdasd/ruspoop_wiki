@@ -60,4 +60,6 @@ ReduxOID, multiprogramm, MrDeadlyPunch, и другими. Но и тот поз
 Скриншота канала GTHO за январь 2012 года
 [thumb\|left](Файл:Old_channel_gtho.png "wikilink")
 [thumb\|center](Файл:Old_channel_gtho2.png "wikilink")
+[thumb\|right\|300
+px](Файл:GTHO_Вещает_5_лет_творчеству_и_самые_первые_пупы "wikilink")
 [Категория:Пуперы](Категория:Пуперы "wikilink")
