@@ -27,12 +27,21 @@ games RYTP, HunteR750 RYTP, собственно говоря, потому чт
 Не совсем однозначный. Рандомно-визуальный стиль с употреблением
 вордмикса и разлчиных отсылок.
 
-**Самые удачные работы (С точки зрения автора)**
-<img src="Вращение_RAR-a_4_-_RYTP" title="fig:Вращение_RAR-a_4_-_RYTP" width="330" height="330" alt="Вращение_RAR-a_4_-_RYTP" />
-<img src="Supernacionalist_+futurama_collab&#39;s_entry_-_RYTP" title="fig:Supernacionalist_+futurama_collab&#39;s_entry_-_RYTP" width="330" height="330" alt="Supernacionalist_+futurama_collab&#39;s_entry_-_RYTP" />
-<img src="Вращение_RAR-a_7_-_RYTP" title="fig:Вращение_RAR-a_7_-_RYTP" width="330" height="330" alt="Вращение_RAR-a_7_-_RYTP" />
-<img src="&quot;Колба_концентрированного_Гамбола&quot;_-_RYTP-Entry_for_Jespin_collab" title="fig:&quot;Колба_концентрированного_Гамбола&quot;_-_RYTP-Entry_for_Jespin_collab" width="330" height="330" alt="&quot;Колба_концентрированного_Гамбола&quot;_-_RYTP-Entry_for_Jespin_collab" />
-<img src="Остров_нужных,_но_не_людей_-_RYTP" title="fig:Остров_нужных,_но_не_людей_-_RYTP" width="329" height="329" alt="Остров_нужных,_но_не_людей_-_RYTP" />
-<img src="RIЯ_и_ROЯTi_2_--_RYTP-Collab_-reupload-" title="fig:RIЯ_и_ROЯTi_2_--_RYTP-Collab_-reupload-" width="330" height="330" alt="RIЯ_и_ROЯTi_2_--_RYTP-Collab_-reupload-" />
+**Самые удачные работы (С точки зрения
+автора)**<img src="Остров_нужных,_но_не_людей_-_RYTP" title="fig:Остров_нужных,_но_не_людей_-_RYTP" width="329" height="329" alt="Остров_нужных,_но_не_людей_-_RYTP" /><https://www.youtube.com/watch?v=Bv9X4613hVI>
+
+<https://www.youtube.com/watch?v=O638pL6rl3E>
+
+<https://www.youtube.com/watch?v=pEqYaWkVgac>
+
+<https://www.youtube.com/watch?v=uFAjoJU3AVI>
+
+<https://www.youtube.com/watch?v=T-hP4OQvLa4>
+
+<https://www.youtube.com/watch?v=RYHTGxsveBU>
+
+<https://www.youtube.com/watch?v=Bv9X4613hVI>
+
+<https://www.youtube.com/watch?v=iqaC-7kZvAg><img src="RIЯ_и_ROЯTi_2_--_RYTP-Collab_-reupload-" title="fig:RIЯ_и_ROЯTi_2_--_RYTP-Collab_-reupload-" width="330" height="330" alt="RIЯ_и_ROЯTi_2_--_RYTP-Collab_-reupload-" />
 [Категория:Пуперы](Категория:Пуперы "wikilink")
 [Категория:Рандомщики](Категория:Рандомщики "wikilink")
