@@ -6,4 +6,49 @@ layout: wiki
 
 ## Описание
 
+ВОТ ОН ТРУД 2-Х МЕСЯЦЕВ РАБОТЫ!
+
+`= = = = = = = = = Сурсы = = = = = = = = = = `
+
+Видео: (Основоное) Рейтинг Баженова. Могло быть хуже. День сурка -
+<http://www.youtube.com/watch?v=rWWM0Gv6YMw> 00:26 - NOOOO GOD! (Здесь в
+ашди)→ <http://www.youtube.com/watch?v=JncgoPKklVE> 00:28 - "Огромную
+кучу дерьма" Весёлые трали - фекалии
+<http://www.youtube.com/watch?v=uBBP7u1wRzQ> 00:30 - "NOM"
+<http://www.youtube.com/watch?v=ydqL6T8YHRs> 00:35 - Реклама орбит
+фрутини <http://www.youtube.com/watch?v=hAmi3ddwJIg> 00:51 - Nanoman \#1
+<http://www.youtube.com/watch?v=N_QR6KvCYTw> 01:04 - PINGAS
+<http://www.youtube.com/watch?v=KysGf7_NxOs> 01:15 - Зелёный Слоник
+(Сцена срущего Пахома) <http://www.youtube.com/watch?v=K3StMEsnwF0>
+01:16 - "ААААА! Весь пол засрал!" Тоже Зелёный Слоник 01:19 - Вот это
+прикол <http://www.youtube.com/watch?v=6KQ7IOg8ekc> 01:49 - Слышь ты бля
+сука <http://www.youtube.com/watch?v=DC8gJqY60UI> 01:58 - Сашко осатанел
+от компа <http://www.youtube.com/watch?v=GWd1CjXfAZk> 02:12 - Повар
+спрашивает Повара <http://www.youtube.com/watch?v=6alM_ZJd-UE>
+
+` Дядя Петя `[`http://www.youtube.com/watch?v=V_DSatSt444`](http://www.youtube.com/watch?v=V_DSatSt444)  
+` Боже какая шутка `[`http://www.youtube.com/watch?v=GNVN_m1iIfQ`](http://www.youtube.com/watch?v=GNVN_m1iIfQ)
+
+02:22 - HFM - Дырявые носки <http://www.youtube.com/watch?v=UeNOA5vQS4A>
+02:29 - Ебать вагон, блять <http://www.youtube.com/watch?v=YOrsh76SOEE>
+02:39 - ("Баж ржёт" Заставка оттуда же) ШколоВысер \#20 ( Юбилей Мать
+его 2 ) <http://www.youtube.com/watch?v=FvLF_Kjngo0> 02:48 - Капитан
+Пронин <http://www.youtube.com/watch?v=hXjmddZP5LA>
+
+` HFM - Ночной кошмар (Пятница 13 - Часть 2) `[`http://www.youtube.com/watch?v=Afk7l8CVz3M`](http://www.youtube.com/watch?v=Afk7l8CVz3M)
+
+02:54 - Сервиz Центр - Ремонт роутера TL-WR340GD
+<http://www.youtube.com/watch?v=7jGz3RxUGVM> 03:03 - asdfmovie 2
+(сыендук) <http://www.youtube.com/watch?v=ANBWUW4PxPU> 03:04 - Чёртов
+Лунтик <http://www.youtube.com/watch?v=GscxHoU4UqU> 03:44 - Ядерный
+взрыв, вид из космоса (Nuclear Plant Explosion) 2012
+<http://www.youtube.com/watch?v=11GWnGvgTzI> 04:11 - PSY - Gentleman
+<http://www.youtube.com/watch?v=ASO_zypdnsQ> Музыка: 00:00 - DenDerty -
+8 BIT 00:52 - Alexander Rybakov - Action Hero 01:34 - 50 cent feat. lupe
+fiasco drake lil wayne eminem - through the window go-deep extended mix
+02:00 - Cascade Decay - Abstract Universe 03:19 - Dope - Die mother
+fucker die 03:30 - Borgore - Broken Rulz (Gorestep) 03:54 - Unlimited
+Gravity - Lift Your Spirit 03:57 - DenDerty - Сорваны Рамы 04:27 -
+Novogodnyaya-diskoteka-novogodnee-nastroenie-2013-dorozhka-6camaya-klubnaya-muzyka-tol_ko-u-nas-zahodi-k-nam-(krutayamuzikatochkakom.com)-len-nazvanie-obrezat((999
+P.S. Честно, не знаю буду ли я что нибудь на новый год выкладывать...
 [Категория:Видео](Категория:Видео "wikilink")
