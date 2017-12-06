@@ -4,4 +4,6 @@ permalink: wiki/DB/
 layout: wiki
 ---
 
-а
+1.  перенаправление [DBmain](/wiki/DBmain "wikilink")
+
+\_\_СТАТИЧЕСКОЕ_ПЕРЕНАПРАВЛЕНИЕ\_\_
