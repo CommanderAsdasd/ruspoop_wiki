@@ -1,5 +1,5 @@
 {{Инфобокс для пуперов
-|title2=Пример
+|title2=LolRuStuff
 |другие_ники=Степан Смольянинов
 |image3=[[Файл:LolRuStuff.jpg|left]]
 |caption3=Пример
