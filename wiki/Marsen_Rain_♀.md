@@ -44,7 +44,7 @@ Tennis'e**](https://www.youtube.com/watch?v=NmeKvFWubfc) и в коллабах:
     Мультфильмов**](https://www.youtube.com/watch?v=87-vo0Rn41A) (с
     [GTHO](/wiki/TheGetthehellout "wikilink"))
 -   [**5 min collab**](https://www.youtube.com/watch?v=l4ddzevXZJ8) (в
-    основном с членами Балкона)
+    основном с членами [Балкона](Например,_Балкон "wikilink"))
 
 Стоит отметить явно феминистический подтекст в пупах. Ярче всего он
 проявился под конец творческого пути в пупе **Флешбеки карманного
