@@ -43,7 +43,7 @@ tennis**](http://ru.ruspoop.wikia.com/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81)
 В начале 2014, первым в руспупе, с кем порошок начал контактировать,
 стал **framesecret** (с 2017 - royalgu4ard), с которым знаком и по сей
 день. Далее, его заметил
-[**Шман**](http://ru.ruspoop.wikia.com/wiki/Limpquil), и в личке ютуба
+[**Шмак**](http://ru.ruspoop.wikia.com/wiki/Limpquil), и в личке ютуба
 (в то время порошок не имел страницы вк, но по совету шмака
 зарегистрировался там) предложил ему теннис - [**Спонтанный Теннис \|
 RYTP
@@ -56,9 +56,6 @@ Tennis**](https://www.youtube.com/watch?v=M9IdRDNj91k&list=PL1tzuEjU1Y8vEOeJJPlv
 [**NiniksSuperAwesome**](http://ru.ruspoop.wikia.com/wiki/NiniksSuperAwesome),
 и прочие, и в последствии сотрудничал с ними.
 
-[thumb\|right\|192 px\|Первая часть "Баллады о
-Баже"](Файл:Баллада_о_Баже_RYTP-0 "wikilink")
-
 ## **Самые известные работы**
 
 [**"HOWOH
@@ -69,13 +66,14 @@ MEM"**](https://www.youtube.com/playlist?list=PL1tzuEjU1Y8tJrda4Ik2V4vTYrfY6JC-n
 Самая большая по хронометражу - [шестая
 часть](https://www.youtube.com/watch?v=tn3vjr0ByJE) (20 минут).
 **"Баллада о Баже"** - Состоит из двух частей. Является одной из
-наиболее ярких работ порошка того времени. [thumb\|right\|193 px\|Вторая
-часть "Баллады о Баже"](Файл:Баллада_о_Баже_2_RYTP "wikilink")
-[**"Например,
+наиболее ярких работ порошка того времени.   [**"Например,
 Балкон"**](http://ru.ruspoop.wikia.com/wiki/%D0%91%D0%B0%D0%BB%D0%BA%D0%BE%D0%BD)
 - Теннис, организованный Mr.Zie Forever, хостом которого являлся
-порошок. Подробнее можете прочитать в статье о нем.
-<img src="Например_балкон_-_RYTP_TENNIS" title="fig:Например_балкон_-_RYTP_TENNIS" width="193" height="193" alt="Например_балкон_-_RYTP_TENNIS" />
+порошок. Подробнее можете прочитать в статье о нем.[thumb\|right\|193
+px\|Вторая часть "Баллады о
+Баже"](Файл:Баллада_о_Баже_2_RYTP "wikilink") [thumb\|right\|192
+px\|Первая часть "Баллады о
+Баже"](Файл:Баллада_о_Баже_RYTP-0 "wikilink")<img src="Например_балкон_-_RYTP_TENNIS" title="fig:Например_балкон_-_RYTP_TENNIS" width="193" height="193" alt="Например_балкон_-_RYTP_TENNIS" />
 
 ## 
 
