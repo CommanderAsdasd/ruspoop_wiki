@@ -1,7 +1,7 @@
 ---
 title: Pisok
 permalink: wiki/Pisok/
-layout: wiki
+redirect_to: /wiki/Pisok_̶R̶Y̶T̶P̶/
 ---
 
-1.  redirect \[Pisok\_̶R̶Y̶T̶P̶\]
+You should automatically be redirected to [Pisok_̶R̶Y̶T̶P̶](/wiki/Pisok_̶R̶Y̶T̶P̶/)
