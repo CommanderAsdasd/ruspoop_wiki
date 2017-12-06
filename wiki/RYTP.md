@@ -4,8 +4,12 @@ permalink: wiki/RYTP/
 layout: wiki
 ---
 
-<img src="Пупы.jpg" title="fig:Пупы.jpg" width="300" height="300" alt="Пупы.jpg" />[Список
-пупов](:Категория:Пупы "wikilink")
+<figure>
+<img src="Пупы.jpg" title="Пупы.jpg" width="300" height="300" alt="Пупы.jpg" /><figcaption aria-hidden="true">Пупы.jpg</figcaption>
+</figure>
+
+-   <span style="font-size:25px;"> [Список
+    пупов](:Категория:Пупы "wikilink")
 
 ## Определение
 
