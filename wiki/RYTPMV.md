@@ -4,6 +4,9 @@ permalink: wiki/RYTPMV/
 layout: wiki
 ---
 
+-   **<span style="font-size:25px;">[Список
+    музпупов](:Категория:Музпупы "wikilink") </span>**
+
 [thumb\|500x500px\|none](Файл:Hdq460G7IFM.jpg "wikilink")
 
 ## Что же они из себя представляют?
