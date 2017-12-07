@@ -4,4 +4,4 @@ permalink: wiki/Captain_Cacaonix/
 layout: wiki
 ---
 
-Captain_Cacaonix [Категория:Пуперы](Категория:Пуперы "wikilink")
+Начинающий пупер. [Категория:Пуперы](Категория:Пуперы "wikilink")
