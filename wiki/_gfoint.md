@@ -56,7 +56,7 @@ MORTY & RYTP](https://www.youtube.com/watch?v=BKK8s5JUJ9Y), который
 
 PSYTP - RUSSIAN STYLE Оригинальная версия клипа Ромы Жёлудя - LIKE
 SQUIDWARD TRIBUTE RYTPMV Человек паук возрождает веру в основную
-информацию RYTP
+информацию RYTP 4QbebqGP jA.jpg\|Старая аватарка
 
 [Категория:Пуперы](Категория:Пуперы "wikilink")
 [Категория:Музпуперы](Категория:Музпуперы "wikilink")
