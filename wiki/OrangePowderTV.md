@@ -73,7 +73,6 @@ MEM"**](https://www.youtube.com/playlist?list=PL1tzuEjU1Y8tJrda4Ik2V4vTYrfY6JC-n
 порошок. Подробнее можете прочитать в статье о нем.[thumb\|right\|192
 px\|Первая часть "Баллады о
 Баже"](Файл:Баллада_о_Баже_RYTP-0 "wikilink")<img src="Например_балкон_-_RYTP_TENNIS" title="fig:Например_балкон_-_RYTP_TENNIS" width="193" height="193" alt="Например_балкон_-_RYTP_TENNIS" />
- 
 
 ## 
 
