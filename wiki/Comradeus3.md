@@ -7,7 +7,9 @@ layout: wiki
 **Comradeus3** - пупер. У многих ассоциируется с сурсом "Домашние
 деньги" (также см. [Гдездь](Гдездь "wikilink")).
 
-Организовал 3 [скетч-коллаба.](Коллаб#Sketch-collab "wikilink")
+Организовал 3 [скетч-коллаба](Коллаб#Sketch-collab "wikilink"), а также
+[теннис](теннис "wikilink") [The Legend Of
+Ranetki](/wiki/The_Legend_Of_Ranetki "wikilink").
 
 ## История ника и аватарки
 
