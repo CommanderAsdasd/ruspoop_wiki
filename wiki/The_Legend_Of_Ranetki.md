@@ -9,6 +9,8 @@ px](Файл:The_Legend_Of_Ranetki_RYTP_Tennis "wikilink") **The Legend of
 Ranetki** - один из самых крупных [теннисов](теннис "wikilink") Руспупа.
 Организован [Comradeus3](/wiki/Comradeus3 "wikilink") и выложен на его канал.
 
+Название является отсылкой к серии игр **The Legend of Zelda**.
+
 ## Участники
 
 -   1\. [Sas_has_returned](/wiki/Sas_has_returned "wikilink")
