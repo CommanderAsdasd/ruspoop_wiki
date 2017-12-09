@@ -4,7 +4,7 @@ permalink: wiki/Naturalnonsense/
 layout: wiki
 ---
 
-**naturalnonsense** - музпупер из Украины.
+**naturalnonsense** - \[муз\]пупер из Украины.
 
 Лично знаком с [Yogi The Wise](/wiki/Yogi_The_Wise "wikilink"),
 [niggacommunist](niggacommunist "wikilink") и
