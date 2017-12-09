@@ -4,4 +4,4 @@ permalink: wiki/Gurchik/
 layout: wiki
 ---
 
-muzpoop mem boi
+хули тут так мало это наша точка блять
