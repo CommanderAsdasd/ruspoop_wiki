@@ -4,6 +4,7 @@ permalink: wiki/Evkoev/
 layout: wiki
 ---
 
-<https://www.youtube.com/user/Evkoev>
+Evkoev (Евгений Евдокимов) — известный русский
+[рандомщик](Рандомщики "wikilink").
 [Категория:Пуперы](Категория:Пуперы "wikilink")
 [Категория:Рандомщики](Категория:Рандомщики "wikilink")
