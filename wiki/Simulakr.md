@@ -4,4 +4,4 @@ permalink: wiki/Simulakr/
 layout: wiki
 ---
 
-Пупер
+'''Simulakr *'(*Даниил Жданов'') - пупер.
