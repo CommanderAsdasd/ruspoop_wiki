@@ -1,6 +1,6 @@
 {{Инфобокс_для_пуперов
 |title2=Simulakr
-|другие_ники=Nivilir, Sracasam
+|другие_ники=Nivilir, Sracasam, Да Ни Ил
 |image3=simulakr.jpg
 |сферы_творчества=RYTP, Стримы, Летсплеи по майнкрафту
 |год_начала=2015
