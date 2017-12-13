@@ -4,4 +4,6 @@ permalink: wiki/Gurchik/
 layout: wiki
 ---
 
-muzpoop mem boi
+**Gurchik** - известный музпупер.
+
+[Категория:Музпуперы](Категория:Музпуперы "wikilink")
