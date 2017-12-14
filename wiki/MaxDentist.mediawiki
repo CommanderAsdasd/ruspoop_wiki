@@ -1,5 +1,5 @@
 {{Инфобокс для пуперов
-|title2=Пример
+|title2=MaxDentist
 |другие_ники=Пример
 |image3=[[Файл:MaxDentist.jpg|left]]
 |caption3=Пример
@@ -10,9 +10,9 @@
 |имя_фамилия=Пример
 |дата_рождения=Пример
 |место_проживания=Пример
-|ссылки=Пример
+|ссылки=[https://www.youtube.com/channel/UCJ19sV_kyup9K6TI2HumoDQ channel]
+[https://www.youtube.com/channel/UCudSl6fbRN6ZWGFQj8aUadA alt]
 }}
-https://www.youtube.com/channel/UCJ19sV_kyup9K6TI2HumoDQ
-Делает музпупы
+Человек. Музпупер. Сурс.
 [[Категория:Пуперы]]
 [[Категория:Музпуперы]]
