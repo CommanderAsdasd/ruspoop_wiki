@@ -8,6 +8,6 @@ layout: wiki
 участием в нескольких музпуп коллабах. Возможно будет развиваться как
 пупер.
 
-Его п[ервый
-пуп](https://www.youtube.com/watch?v=Yu1VmYfHn9c&feature=youtu.be)
+Его [первый
+пуп](https://www.youtube.com/watch?v=Yu1VmYfHn9c&feature=youtu.be).
 [Категория:Музпуперы](Категория:Музпуперы "wikilink")
