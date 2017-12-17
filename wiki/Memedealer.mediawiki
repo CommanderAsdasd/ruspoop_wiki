@@ -1,15 +1,20 @@
 {{Инфобокс для пуперов
-|title2=Memedealer
-|другие_ники=
+|title2='''Memedealer'''
+|другие_ники=mmdlr
 |image3=
 |caption3=
 |сферы_творчества=RYTP
 |год_начала=
 |image4=
 |caption4=
-|имя_фамилия=
-|дата_рождения=
+|имя_фамилия=Даниил Домбровский
+|дата_рождения=04.09.?
 |место_проживания= Украина
-|ссылки=[https://www.youtube.com/channel/UC0dRQ98qwnalWfGTFDGFvPQ канал] 
+|ссылки=[https://www.youtube.com/channel/UC0dRQ98qwnalWfGTFDGFvPQ Youtube канал] 
+[https://vk.com/muchach0 ВК]
 }}
+'''Memedealer''' (''mmdlr'') - пупер с сбалансированным стилем, в котором сочетаются и юмор и визуалки. 
+
+== '''Знакомство с пупами''' ==
+Руспупом заинтересовался в 2014 через пупы [http://ru.ruspoop.wikia.com/wiki/TheGetthehellout?li_source=LI&li_medium=wikia-footer-wiki-rec GTHO], после чего вдохновился и решил попробовать себя в этом.
 [[Категория:Пуперы]]
