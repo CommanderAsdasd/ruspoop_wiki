@@ -1,7 +1,7 @@
 {{Инфобокс для пуперов
 |title2='''Memedealer'''
 |другие_ники=mmdlr
-|image3=
+|image3=Photo-1.jpg
 |caption3=
 |сферы_творчества=RYTP
 |год_начала=
