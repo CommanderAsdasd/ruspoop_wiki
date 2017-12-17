@@ -4,9 +4,10 @@ permalink: wiki/LexVegas/
 layout: wiki
 ---
 
-Среднескилловый пупер, начинавший свой путь изначально как Alexey
-RChannel и делавший плохие пупы. Поначалу сотрудничал с такими пуперами,
-как [Reflex](/wiki/Reflex "wikilink"), [TL Show](TL_Show "wikilink"),
+'''LexVegas *'(*Лекс'') — Среднескилловый [пупер](Пуперы "wikilink"),
+начинавший свой путь изначально как Alexey RChannel и делавший плохие
+пупы. Поначалу сотрудничал с такими пуперами, как
+[Reflex](/wiki/Reflex "wikilink"), [TL Show](TL_Show "wikilink"),
 [GoLdStep](/wiki/GoLdStep "wikilink"), [Тралл](Trall_Pukanow "wikilink"),
 [Сосед Комкиных](Сосед_Комкиных "wikilink"), [SF
 Denny](/wiki/SF_Denny "wikilink"), [Memedealer](Memedealer "wikilink").
