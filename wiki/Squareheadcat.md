@@ -4,7 +4,7 @@ permalink: wiki/Squareheadcat/
 layout: wiki
 ---
 
-'''squareheadcat *'(*Константин Лесников'') —
+'''squareheadcat *'(К*от, Квадратноголовый кот, SHC'') —
 [пупер](Пуперы "wikilink"), считается одним из лучших
 [визуальщиков](Визуальщики "wikilink").
 [Категория:Пуперы](Категория:Пуперы "wikilink")
