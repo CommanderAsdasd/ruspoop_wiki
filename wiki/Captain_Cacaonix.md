@@ -4,7 +4,7 @@ permalink: wiki/Captain_Cacaonix/
 layout: wiki
 ---
 
-**Captain Cacaonix** - [пупер](Пуперы "wikilink"), мэшапер.
+**Captain Cacaonix** — [пупер](Пуперы "wikilink"), мэшапер.
 
 ## История ника и аватарки
 
