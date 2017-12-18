@@ -4,7 +4,7 @@ permalink: wiki/L.V.G_TV/
 layout: wiki
 ---
 
-L.V.G. TV — [пупер](Пуперы "wikilink"),
+**L.V.G. TV** — [пупер](Пуперы "wikilink"),
 [визуальщик](Визуальщики "wikilink"). Известен тем, что организовал
 [самый длинный коллаб](https://youtu.be/FWrV1m7A3FE) в истории RYTP.
 [Категория:Пуперы](Категория:Пуперы "wikilink")
