@@ -10,7 +10,9 @@
 |имя_фамилия=
 |дата_рождения=
 |место_проживания=
-|ссылки=*[https://www.youtube.com/Ainutorendru youtube]
+|ссылки=
+*[https://www.youtube.com/Ainutorendru youtube]
+*[https://vk.com/anutn vk]
 }}
 [[Категория:Пуперы]]
 [[Категория:Визуальщики]]
