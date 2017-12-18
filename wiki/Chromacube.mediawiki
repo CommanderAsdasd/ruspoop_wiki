@@ -1,6 +1,7 @@
 {{Инфобокс для пуперов
 |title2=chromacube
-|другие_ники=kingofdoritos, kingofkachalka
+|другие_ники=kingofdoritos
+kingofkachalka
 |image3=[[Файл:Chromacube.jpg|left]]
 |caption3=
 |сферы_творчества=
