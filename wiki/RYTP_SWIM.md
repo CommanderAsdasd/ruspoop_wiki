@@ -4,7 +4,7 @@ permalink: wiki/RYTP_SWIM/
 layout: wiki
 ---
 
-**RYTP SWIM** - серия коллабов, созданная [Yogi The
+**RYTP SWIM** - серия [коллабов](Коллаб "wikilink"), созданная [Yogi The
 Wise](/wiki/Yogi_The_Wise "wikilink") и пародирующая \[adult swim\]. Долгое
 время считались самыми масштабными коллабами в русском пупе до выхода
 [Телевизионного канала L.V.G TV
