@@ -1,7 +1,7 @@
 {{Инфобокс для пуперов
 |title2=squareheadcat
 |другие_ники=squaredeadcat
-InSomniac
+Somniac IV
 |image3=[[Файл:Squareheadcat.jpg|left]]
 |caption3=Пример
 |сферы_творчества=RYTP, 3D-моделирование
