@@ -9,8 +9,9 @@ layout: wiki
 последнее время начал проявлять активность, работая исключительно над
 музпупами.
 
-Первый nobgm: ![](Fairgain.er "fig:Fairgain.er")
+Первый nobgm:
+<img src="Fairgain.er" title="fig:Fairgain.er" width="332" height="332" alt="Fairgain.er" />
 
 Первый теннис:
-[thumb\|300x300px\|none](Файл:Unknowntennis.exe_RYTP_Tennis "wikilink")[Категория:Пуперы](Категория:Пуперы "wikilink")
+[thumb\|330x330px\|none](Файл:Unknowntennis.exe_RYTP_Tennis "wikilink")[Категория:Пуперы](Категория:Пуперы "wikilink")
 [Категория:Музпуперы](Категория:Музпуперы "wikilink")
