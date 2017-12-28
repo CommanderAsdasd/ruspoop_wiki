@@ -1,6 +1,6 @@
 {{Фэды
 |title1=RYTPMV 2017
-|image1=Пример
+|image1=[[Файл:20171228_083720.jpg|left]]
 |caption1=
 |плейлист=[https://www.youtube.com/playlist?list=PLZksE9p9Z5ADr11hS0f2as9Xzvkkg1iXh Плейлист]
 }}
