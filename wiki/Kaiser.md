@@ -4,6 +4,10 @@ permalink: wiki/Kaiser/
 layout: wiki
 ---
 
+<figure>
+<img src="Image2.png" title="Image2.png" width="220" height="220" alt="Image2.png" /><figcaption aria-hidden="true">Image2.png</figcaption>
+</figure>
+
 > Был начат в октябре 2016го.
 
 В оригинальной рекламе Kaiser, попугай, летая по кухне, ударяется об
