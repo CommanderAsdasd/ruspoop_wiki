@@ -1,2 +1,9 @@
-'''Cawa is here''' (Не Кава, а Саша) - соккер, основным сурсом которого является фрагмуви по San Andreas Multiplayer. 
+{{Фэды
+|title1=Cawa is here
+|image1=[[Файл:Maxresdefault2.jpg|left]]
+|caption1=
+|плейлист=[https://www.youtube.com/playlist?list=PLZksE9p9Z5AD5jh0pT5iatEvQZzwkwGNL Плейлист]
+}}
+
+'''Cawa is here''' (Не Кава, а Саша) - соккер, основным сурсом которого является фрагмуви по San Andreas Multiplayer.
 [[Категория:Соккеры]]
