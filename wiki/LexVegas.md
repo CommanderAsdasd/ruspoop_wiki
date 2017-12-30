@@ -8,7 +8,7 @@ layout: wiki
 начинавший свой путь изначально как Alexey RChannel и делавший плохие
 пупы. Поначалу сотрудничал с такими пуперами, как
 [Reflex](/wiki/Reflex "wikilink"), [TL Show](TL_Show "wikilink"),
-[GoLdStep](/wiki/GoLdStep "wikilink"), [Тралл](Trall_Pukanow "wikilink"),
+[GoLdStep](/wiki/GoLdStep "wikilink"), [Тралл](TRALL_PUKANOW "wikilink"),
 [Сосед Комкиных](Сосед_Комкиных "wikilink"), [SF
 Denny](/wiki/SF_Denny "wikilink"), [Memedealer](Memedealer "wikilink").
 Переименовал себя в LexVegas после коллаба "Шоша Попов и Тугарин Йий",
