@@ -1,6 +1,6 @@
 {{Инфобокс для пуперов
-|title2=logictip
-|другие_ники=
+|title2=log
+|другие_ники=logictip
 |image3=[[Файл:Logictip.jpg|left]]
 |caption3=
 |сферы_творчества=RYTPMV
