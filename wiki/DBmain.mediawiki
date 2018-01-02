@@ -5,7 +5,7 @@
 |сферы_творчества=RYTPMV
 |год_начала=2014 год
 |image4=
-|имя_фамилия=Денис Боярчук
+|имя_фамилия=
 |ссылки=
 *[https://www.youtube.com/DENISBUCZHACK YouTube]
 *[https://www.youtube.com/channel/UCHBmx-PHTbZobErHbTbApHA Альт. канал]
