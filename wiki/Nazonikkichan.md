@@ -1,0 +1,9 @@
+---
+title: Nazonikkichan
+permalink: wiki/Nazonikkichan/
+layout: wiki
+---
+
+Новая пуперша появившеяся в декабре 17 года
+
+по не понятным причинам на ее персону обрушилась тонна негатива
