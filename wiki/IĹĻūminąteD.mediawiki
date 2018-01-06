@@ -8,8 +8,8 @@
 |image4=Пример
 |caption4=Пример
 |имя_фамилия=Илья Вдовин
-|дата_рождения=Пример
-|место_проживания=Пример
+|дата_рождения=19.10
+|место_проживания=Краснодар
 |ссылки=Основной канал: https://www.youtube.com/channel/UC9fzKq-2uwa69nxSwJ-Yj_Q
 Альт: https://www.youtube.com/channel/UCpA7zX_N8bNybU780rIDjqA
 ВК: https://vk.com/il242
