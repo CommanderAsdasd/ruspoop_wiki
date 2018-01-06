@@ -1,2 +1,12 @@
-'''TouchField '''— [[Музпуперы|музпупер]]. {{Инфобокс_для_пуперов|title2 = TouchField|image3 = Photo-0.jpg|сферы_творчества = RYTPMV|ссылки = *[https://www.youtube.com/channel/UCssLzncNIl_yTdeXgNdNbvg/featured YouTube]
-*[https://vk.com/gaysofkazakhstan VK]}}[[Категория:Музпуперы]]
+{{Инфобокс_для_пуперов
+|title2 = TouchField
+|другие_ники = қияңқы уебак
+|image3 = Photo-0.jpg
+|сферы_творчества = RYTPMV
+|ссылки = 
+*[https://www.youtube.com/channel/UCssLzncNIl_yTdeXgNdNbvg/featured YouTube]
+*[https://www.youtube.com/channel/UChGAAkuXim6cWC4lacjifjA Альт (қияңқы уебак)]
+*[https://vk.com/gaysofkazakhstan Группа VK]}}
+
+'''TouchField '''— [[Музпуперы|музпупер]] из Казахстана.
+[[Категория:Музпуперы]]
