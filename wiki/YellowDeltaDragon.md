@@ -48,3 +48,4 @@ layout: wiki
 <https://www.youtube.com/watch?v=iqaC-7kZvAg><img src="RIЯ_и_ROЯTi_2_--_RYTP-Collab_-reupload-" title="fig:RIЯ_и_ROЯTi_2_--_RYTP-Collab_-reupload-" width="330" height="330" alt="RIЯ_и_ROЯTi_2_--_RYTP-Collab_-reupload-" />
 [Категория:Пуперы](Категория:Пуперы "wikilink")
 [Категория:Рандомщики](Категория:Рандомщики "wikilink")
+[Категория:Визуальщики](Категория:Визуальщики "wikilink")
