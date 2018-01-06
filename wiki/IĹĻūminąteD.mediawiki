@@ -1,16 +1,18 @@
 {{Инфобокс для пуперов
 |title2=Пример
 |другие_ники=ILya_IL242, IL243
-|image3=Пример
+|image3=Final.jpeg
 |caption3=Пример
-|сферы_творчества=Пример
-|год_начала=Пример
+|сферы_творчества=RYTP, RYTPMV
+|год_начала=2017
 |image4=Пример
 |caption4=Пример
-|имя_фамилия=Пример
+|имя_фамилия=Илья Вдовин
 |дата_рождения=Пример
 |место_проживания=Пример
-|ссылки=Пример
+|ссылки=Основной канал: https://www.youtube.com/channel/UC9fzKq-2uwa69nxSwJ-Yj_Q
+Альт: https://www.youtube.com/channel/UCpA7zX_N8bNybU780rIDjqA
+ВК: https://vk.com/il242
 }}
 
 а
