@@ -1,5 +1,5 @@
 {{Инфобокс для пуперов
-|title2=Пример
+|title2=ILya IL242
 |другие_ники=ILya_IL242, IL243
 |image3=Final.jpeg
 |caption3=Пример
