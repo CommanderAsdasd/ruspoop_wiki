@@ -20,9 +20,7 @@ layout: wiki
 
 При создании своих работ, главным источником вдохновения для Георгия
 является
-[**octagoncoil**](http://ru.ruspoop.wikia.com/wiki/Octagoncoil), однако
-многие пуперы-ваннаби (типо SF Denny и /gééchmărgon) думают, что именно
-доритос воздвиг моду на рандом.
+[**octagoncoil**](http://ru.ruspoop.wikia.com/wiki/Octagoncoil)**.**
 
 ## **Известные работы**
 
