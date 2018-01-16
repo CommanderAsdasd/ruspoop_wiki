@@ -20,6 +20,13 @@ layout: wiki
 На данный момент создано [](Служебная:Allpages "wikilink") и Вы можете
 помочь, дополняя страницы новой информацией
 
+-   [Некатегоризованные
+    страницы](http://ru.ruspoop.wikia.com/wiki/Служебная:UncategorizedPages)
+-   [Страницы без
+    изображений](http://ru.ruspoop.wikia.com/wiki/Служебная:Withoutimages)
+-   [Короткие
+    страницы](http://ru.ruspoop.wikia.com/wiki/Служебная:ShortPages)
+
 <div style="border:0px solid #4d3f68; background:#4d3f68; text-align:center; font-size:150%; color:#cccccc">
 
 Ссылки
@@ -28,7 +35,8 @@ layout: wiki
 
 [Благодарности](Благодарности "wikilink") \| [Наша
 группа](https://vk.com/ruspoopwiki) \| [Группа
-пупов](https://vk.com/russianpoop)
+пупов](https://vk.com/russianpoop) \| [Случайная
+страница](http://ru.ruspoop.wikia.com/wiki/Служебная:Random)
 
 </div>
 
