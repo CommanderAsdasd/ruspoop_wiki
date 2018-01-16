@@ -41,7 +41,7 @@ layout: wiki
 
 4iiQFSjz0As.jpg BqopE0PUTX4.jpg ek5F_pYBKso.jpg f7t3ifQiEb4.jpg
 FhCEaSPw2eA.jpg fVNz5ZlDl8M.jpg kAiB8-kwWFU.jpg qFr-MoYPUzI.jpg
-W76kwyWl3Z0.jpg Xyr1jhOF8pU.jpg
+W76kwyWl3Z0.jpg Файл:2018-01-16_22-52-44.jpg
 
 <mainpage-endcolumn/> <mainpage-rightcolumn-start/>
 
