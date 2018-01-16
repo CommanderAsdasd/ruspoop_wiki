@@ -55,7 +55,7 @@ MORTY & RYTP](https://www.youtube.com/watch?v=BKK8s5JUJ9Y), который
 твиче ([gfoint](https://twitch.tv/gfoint)).
 
 [thumb\|актуальное фото на 2018
-год\|none](Файл:2018-01-16_22-52-44.jpg "wikilink")
+год\|none\|300x300px](Файл:2018-01-16_22-52-44.jpg "wikilink")
 
 ## Примеры работ
 
