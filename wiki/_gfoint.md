@@ -54,8 +54,8 @@ MORTY & RYTP](https://www.youtube.com/watch?v=BKK8s5JUJ9Y), который
 ([TooDamnFointie](https://www.youtube.com/user/djifointie)) и стримит на
 твиче ([gfoint](https://twitch.tv/gfoint)).
 
-[thumb\|left\|актуальное фото на 2018
-год](Файл:2018-01-16_22-52-44.jpg "wikilink")
+[thumb\|актуальное фото на 2018
+год\|none](Файл:2018-01-16_22-52-44.jpg "wikilink")
 
 ## Примеры работ
 
