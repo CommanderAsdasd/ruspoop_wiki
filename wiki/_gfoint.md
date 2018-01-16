@@ -54,6 +54,11 @@ MORTY & RYTP](https://www.youtube.com/watch?v=BKK8s5JUJ9Y), который
 ([TooDamnFointie](https://www.youtube.com/user/djifointie)) и стримит на
 твиче ([gfoint](https://twitch.tv/gfoint)).
 
+С начала 2018 года кое-кто постеснялся предложить Игорю снимать хату
+вместе и он уехал обратно в Архангельск.
+\[https://twitter.com/gfoint/status/952790640609366017 Подробнее он
+писал в своем твиттере\]
+
 [thumb\|актуальное фото на 2018
 год\|none\|300x300px](Файл:2018-01-16_22-52-44.jpg "wikilink")
 
