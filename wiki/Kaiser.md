@@ -20,3 +20,5 @@ Kaiser!".
 -   [Оригинальное видео](https://www.youtube.com/watch?v=_NEJjSBWMEU)
 -   [Плейлист
     фэда](https://www.youtube.com/playlist?list=PLPc-Jxd_79USpc6NiWpdD7r87atPQrMDE)
+
+[Категория:Фэды](Категория:Фэды "wikilink")
