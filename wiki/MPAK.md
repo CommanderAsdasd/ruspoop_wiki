@@ -9,3 +9,4 @@ layout: wiki
 анимешник и брони. Входил в разваленную команду Super Poopers
 Production: [Shenko](/wiki/Wylatwo "wikilink") (Шелковников), Кошмарный демон
 (Муранов), Death the hell out (New Sourse).
+[Категория:Пуперы](Категория:Пуперы "wikilink")
