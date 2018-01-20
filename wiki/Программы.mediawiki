@@ -4,4 +4,12 @@
 
 '''Adobe Premiere'''
 
-'''Sony Vegas Pro'''
+'''Adobe Photoshop'''
+
+'''Adobe Audition'''
+
+'''Audacity'''
+
+'''Vegas Pro'''
+
+'''OpenMPT'''
