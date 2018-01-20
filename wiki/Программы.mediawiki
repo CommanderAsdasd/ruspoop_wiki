@@ -4,4 +4,4 @@
 
 '''Adobe Premiere'''
 
-'''Sony Vegas'''
+'''Sony Vegas Pro'''
