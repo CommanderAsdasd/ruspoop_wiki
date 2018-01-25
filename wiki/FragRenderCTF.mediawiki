@@ -6,8 +6,8 @@
 |год_начала=9 августа, 2016 г.
 |image4=EliteSverhrazum.png
 |имя_фамилия=Артём Флисков (фамилия псевдонимная)
-|дата_рождения=15 мая, 2000г
-|место_проживания=Пермь
+|дата_рождения=
+|место_проживания=
 |ссылки=
 *[https://www.youtube.com/channel/UCH6Cl5evoExFH7lRaqBzu6w FragRenderCTF (основа)]
 *[https://www.youtube.com/channel/UCjrNX23cUndhrqPhjZlEehQ EliteSverhrazum (альт)]
