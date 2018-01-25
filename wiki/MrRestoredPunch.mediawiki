@@ -1,7 +1,9 @@
 {{Инфобокс для пуперов
-|title2=MrDeadlyPunch
+|title2=MrDeadlyPunch,
 |другие_ники= ThisFuckinAccount
 MrRestoredPunch
+
+TheFSF1
 |image3=[[Файл:Photo_(1).jpg|thumb]]
 |caption3=
 |сферы_творчества=RYTP
@@ -12,12 +14,14 @@ MrRestoredPunch
 |дата_рождения=
 |место_проживания=
 |ссылки=[https://www.youtube.com/channel/UCuLMmanRTE0QgPX-URjdbPQ канал]
-[https://www.youtube.com/user/ThisFuckinAccount/feed второй канал] 
+[https://www.youtube.com/user/ThisFuckinAccount/feed второй канал]
+
+[https://www.youtube.com/user/TheFSF1 альт] 
 }}
 Он же ThisFuckinAccount
 
 Пупер, стоящий в одном ряду с такими олдами руспупа, как Gashik.
 
-Наибольшую активность проявлял до 2013 года, сейчас почти не занимается пупами (иногда заливает короткие видео)
+Наибольшую активность проявлял до 2013 года, сейчас почти не занимается пупами (первые два канала заморожены, иногда заливает короткие видео на альт)
 [[Категория:Пуперы]]
 [[Категория:Рандомщики]]
