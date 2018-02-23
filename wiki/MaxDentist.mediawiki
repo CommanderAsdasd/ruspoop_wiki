@@ -1,15 +1,15 @@
 {{Инфобокс для пуперов
 |title2=MaxDentist
-|другие_ники=Пример
+|другие_ники=
 |image3=[[Файл:MaxDentist.jpg|left]]
-|caption3=Пример
-|сферы_творчества=Пример
-|год_начала=Пример
-|image4=Пример
-|caption4=Пример
-|имя_фамилия=Пример
-|дата_рождения=Пример
-|место_проживания=Пример
+|caption3=
+|сферы_творчества=
+|год_начала=
+|image4=
+|caption4=
+|имя_фамилия=
+|дата_рождения=
+|место_проживания=
 |ссылки=[https://www.youtube.com/channel/UCJ19sV_kyup9K6TI2HumoDQ channel]
 [https://www.youtube.com/channel/UCudSl6fbRN6ZWGFQj8aUadA alt]
 }}Человек. Музпупер. Сурс.
