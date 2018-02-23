@@ -4,4 +4,4 @@ permalink: wiki/Commander_asdasd/
 layout: wiki
 ---
 
-Всезнайка
+Всезнайка [Категория:Пуперы](Категория:Пуперы "wikilink")
