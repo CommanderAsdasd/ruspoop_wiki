@@ -1,8 +1,7 @@
-
 {{Инфобокс для пуперов
 |title2=Kekusmajestics
 |другие_ники=
-|image3=[[Файл:Kekusmajestics.png|left]]
+|image3=[[Файл:G12QrK0mJQ.jpg|thumb]]
 |caption3=
 |сферы_творчества=
 |год_начала=2017
@@ -13,7 +12,6 @@
 |место_проживания=
 |ссылки=[https://www.youtube.com/channel/UC4K_LWX7Jc8uCkrkUcWpLkg канал]
 }}
-
 Монтирует в Final Cut Pro.
 
 Его стиль - это визуалки и большое количество реверсов.
