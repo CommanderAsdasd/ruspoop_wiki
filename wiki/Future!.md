@@ -4,4 +4,4 @@ permalink: wiki/Future!/
 layout: wiki
 ---
 
-хрен [Категория:Имя](Категория:Имя "wikilink")
+хрен [Категория:Пуперы](Категория:Пуперы "wikilink")
