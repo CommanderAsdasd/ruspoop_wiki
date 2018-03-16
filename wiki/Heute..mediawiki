@@ -8,7 +8,7 @@
 |image4=
 |caption4=
 |имя_фамилия=
-|дата_рождения=
+|дата_рождения=Александр Копытов
 |место_проживания=
 |ссылки=[https://www.youtube.com/channel/UC4K_LWX7Jc8uCkrkUcWpLkg канал]
 }}Монтирует в Final Cut Pro.
