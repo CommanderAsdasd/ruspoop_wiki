@@ -4,7 +4,14 @@ permalink: wiki/L.V.G_TV/
 layout: wiki
 ---
 
-**L.V.G TV** —гарик. Известен тем, что он гарик.
+{{Инфобокс для пуперов \|title2=L.V.G TV \|другие_ники=
+\|image3=[left](Файл:LVG_TV.jpg "wikilink") \|caption3=
+\|сферы_творчества=гарик \|год_начала=2012 \|image4=Comp 7 00000.jpg
+\|caption4= \|имя_фамилия= \|дата_рождения=22.11.1999
+\|место_проживания= \|ссылки=
+
+-   [Youtube](https://www.youtube.com/user/AnimatingTouchTV)
+-   [Группа ВК](https://vk.com/l.v.g_music)
 
 Начал быть гариком с 2012 года .
 
