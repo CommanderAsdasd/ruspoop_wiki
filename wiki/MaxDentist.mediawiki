@@ -1,5 +1,5 @@
 {{Инфобокс для пуперов
-|title2=MaxDentist
+|title2=MaxDentist, MaxDentistAlt
 |другие_ники=
 |image3=[[Файл:MaxDentist.jpg|left]]
 |caption3=
