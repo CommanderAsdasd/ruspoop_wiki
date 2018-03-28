@@ -1,33 +1,3 @@
-
-
-|title2=nagadoff
-
-|другие_ники=alter[naga]tive, The N, n1, n2
-
-|image3=
-
-|caption3=
-
-|сферы_творчества=RYTPMV
-
-|год_начала=2012 (?)
-
-|image4=
-
-|caption4=
-
-|имя_фамилия=неизвестно
-
-|дата_рождения=17 ноября
-
-|место_проживания=
-
-|ссылки=
-
-[youtube.com/nagadoff основной канал]
-
-[youtube.com/nagadoffalt альтернативный канал]
-
-<nowiki>}}</nowiki>
-
-<nowiki>[[Категория:Музпуперы]]</nowiki>
+{{Инфобокс_для_пуперов|title2 = Nagadoff|другие_ники = alter[naga]tive, The N, n1, n2|image3 = Photo-1522249708.jpg|сферы_творчества = RYTPMV|год_начала = 2012 (?)|дата_рождения = 17 ноября|ссылки = youtube.com/nagadoff
+youtube.com/nagadoffalt}}
+[[Категория:Музпуперы]]
