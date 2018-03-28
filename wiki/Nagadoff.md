@@ -4,8 +4,6 @@ permalink: wiki/Nagadoff/
 layout: wiki
 ---
 
-{{Инфобокс для пуперов
-
 \|title2=nagadoff
 
 \|другие_ники=alter\[naga\]tive, The N, n1, n2
