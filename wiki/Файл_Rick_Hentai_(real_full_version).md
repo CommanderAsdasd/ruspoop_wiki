@@ -6,4 +6,7 @@ layout: wiki
 
 ## Description
 
-[Категория:Видео](Категория:Видео "wikilink")
+Full version of the YTPMV from this video:
+<http://www.youtube.com/watch?v=GqxqhoZnAME> BGM: S3RL - MTC Также все
+картинки из видео здесь:
+<https://www.dropbox.com/s/2jor88wmephaqqq/Rick> Astley.zip?dl=0
