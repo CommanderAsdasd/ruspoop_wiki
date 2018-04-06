@@ -60,4 +60,4 @@
 
 == '''Visual Soft<nowiki/>''' ==
 * [http://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/ Mandelbulb 3D] - генератор 3D фракталов, большая любовь пупера Pisok Rytp ([https://www.youtube.com/watch?v=76Iqzwl1cFk иронический мануал его авторства])
-* [http://softology.com.au/voc.htm Visions Of Chaos] - много генераторов фракталов, визуалов, завернутые в не очень дружелюбный графический интерфейс.
+* [http://softology.com.au/voc.htm Visions Of Chaos] - много генераторов фракталов, визуалов, завернутые в не очень дружелюбный графический интерфейс. Активно используется пупером Si28ion
