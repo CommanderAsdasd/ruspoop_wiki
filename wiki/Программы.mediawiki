@@ -45,6 +45,7 @@
 * [https://en.wikipedia.org/wiki/Boris_Continuum_Complete '''Boris Continuum Complete (BCC)'''] - много Distortion и Transition-эффектов, один из самых крупных пакетов. Есть под AE, Ofx.
 * '''Boris Sapphire''' - мем рандомной тусовки, аналог Battletoads (- Каких крутых эффектов накидать в пуп? - S_visual/S_random/S_underground). Некогда конкурент BCC, возможно, первый по популярности, теперь выкуплен компанией Boris (неумеренное использование эффектов из этого пакета, в частности S_zebrafy приводит к раку пупа)
 * '''Hitfilm Ignite'''
+* '''NewBlue'''
 * '''RedGiant Universe''' 
 * '''G'mic Ofx / AE recompiled '''- новый пакет тормозных красивых визуалочек из мира опенсорса. [http://reduxfx.com/gmic/rfx_gmic_plugin_0.4b.zip Качать тут]  
 '''Узкоспециализирвоанные:'''
