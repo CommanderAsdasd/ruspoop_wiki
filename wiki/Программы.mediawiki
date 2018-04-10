@@ -47,6 +47,7 @@
 * '''Hitfilm Ignite'''
 * '''NewBlue'''
 * '''RedGiant Universe''' 
+* '''Handy seamless transition''' 
 * '''G'mic Ofx / AE recompiled '''- новый пакет тормозных красивых визуалочек из мира опенсорса. [http://reduxfx.com/gmic/rfx_gmic_plugin_0.4b.zip Качать тут]  
 '''Узкоспециализирвоанные:'''
 * '''Element 3D '''- 3D, тесно интегрированное в АЕ. Много простых и удобных ручек чтобы делать ТРИДЭ ВИЗУАЛОЧКИ не изучая ориентированный на марсиан 3D-софт.
