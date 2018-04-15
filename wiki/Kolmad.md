@@ -10,7 +10,7 @@ layout: wiki
 
 **[Rick Worty \| RYTP](https://www.youtube.com/watch?v=f8_KzbTU0yA)**
 
-**[Необычный rawыw \| ритепе (рутп)](https://youtu.be/JqerWfr-m-I)**
+**[Необычный rawыw \| ритепе (рутп)](https://youtu.be/fGnnTGKmwW4)**
 
 (перезалив) ориг выпилили с ютуба 
 
