@@ -4,7 +4,8 @@ permalink: wiki/Как_сделать_эффект_Unsharp_Mask_(с_обратн
 layout: wiki
 ---
 
-Буду показывать на примере Adobe Premiere
+Буду показывать на примере Adobe
+Premiere[thumb\|400px](Файл:2s4Njuduisg.jpg "wikilink")
 
 Нам понадобится эффект BCC Unsharp Mask
 
@@ -13,4 +14,5 @@ layout: wiki
 
 Надеюсь все понятно объяснил (3 циферки написать в нужном месте)
 
-Удачи и до сведонья
+Удачи и до
+сведонья[thumb\|400px](Файл:TUSOvnp1QUY.jpg "wikilink")[thumb\|400px](Файл:2lOZZhR32fI.jpg "wikilink")​​​​​​​
