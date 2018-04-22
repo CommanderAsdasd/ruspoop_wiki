@@ -32,8 +32,9 @@ layout: wiki
 
 </div>
 
-[Благодарности](Благодарности "wikilink") \| [Группа
-пупов](https://vk.com/russianpoop) \| [Случайная
+[Благодарности](Благодарности "wikilink") \|
+[Хранилище](https://vk.com/russianpoop) \| [Группа
+вк](https://vk.com/ruspoop) \| [Случайная
 страница](http://ru.ruspoop.wikia.com/wiki/Служебная:Random)
 
 </div>

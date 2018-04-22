@@ -12,7 +12,7 @@
 *[http://ru.ruspoop.wikia.com/wiki/Служебная:ShortPages Короткие страницы]
 
 <div style="border:0px solid #4d3f68; background:#4d3f68; text-align:center; font-size:150%; color:#cccccc">Ссылки</div> 
-[[Благодарности]] | [https://vk.com/russianpoop Группа пупов] | [http://ru.ruspoop.wikia.com/wiki/Служебная:Random Случайная страница]'''<nowiki/>'''
+[[Благодарности]] | [https://vk.com/russianpoop Хранилище] | [https://vk.com/ruspoop Группа вк] | [http://ru.ruspoop.wikia.com/wiki/Служебная:Random Случайная страница]'''<nowiki/>'''
 </div>
 
 <gallery type="slideshow" widths="500" crop="true" position="center">
