@@ -16,3 +16,4 @@ Premiere[thumb\|400px](Файл:2s4Njuduisg.jpg "wikilink")
 
 Удачи и до
 сведонья[thumb\|400px](Файл:TUSOvnp1QUY.jpg "wikilink")[thumb\|400px](Файл:2lOZZhR32fI.jpg "wikilink")​​​​​​​
+[Категория:Гайды](Категория:Гайды "wikilink")
