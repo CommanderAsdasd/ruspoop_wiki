@@ -4,8 +4,6 @@ permalink: wiki/Как_сделать_эффект_Unsharp_Mask_(с_обратн
 layout: wiki
 ---
 
-## Как сделать эффект Unsharp Mask
-
 Буду показывать на примере Adobe Premiere
 
 Нам понадобится эффект BCC Unsharp Mask
