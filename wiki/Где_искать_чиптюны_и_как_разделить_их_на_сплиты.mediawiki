@@ -1,7 +1,7 @@
 Для приготовления блюда нам понадобятся:
 
 # Программа [https://openmpt.org/ OpenMPT]
-# Чиптюн в нужном формате (.xm, .midi например), можно найти например [http://www.keygenmusic.net/?lang=ru на этом сайте]. Лучший сайт для поиска чиптюнов - [http://www.modarchive.org modarchive.org], на нём можно найти большинство музыки в несжатом формате. Также есть отличный сайт [https://www.exotica.org.uk/wiki/Special:Modland Modland] (а точнее движок поиска по нему), на котором лежат ТОННЫ чиптюнов.
+# Чиптюн в нужном формате (.xm, .midi например), можно найти на этих сайтах ( 2a03.free.fr modules.pl ftp://ftp.modland.com chiptown.ru pouet.net keygenmusic.net/?lang=ru ). Лучший сайт для поиска чиптюнов - [http://www.modarchive.org modarchive.org], на нём можно найти большинство музыки в несжатом формате. Также есть отличный сайт [https://www.exotica.org.uk/wiki/Special:Modland Modland] (а точнее движок поиска по нему), на котором лежат ТОННЫ чиптюнов.
 # Немножечко дождя
 
 Итак, вы скачали и запустили прогу. Скачали музыку. В проге делаем следующее:
