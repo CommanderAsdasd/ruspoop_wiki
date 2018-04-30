@@ -79,7 +79,7 @@ ReduxOID, multiprogramm, MrDeadlyPunch, и другими. Но и тот поз
 
 ## Галерея[Править](http://ru.youtubepoop.wikia.com/wiki/GetTheHellOut?action=edit&section=2)
 
-Скриншота канала GTHO за январь 2012 года
+Скриншоты канала GTHO за январь 2012 года.
 [thumb\|left](Файл:Old_channel_gtho.png "wikilink")
 [thumb\|center](Файл:Old_channel_gtho2.png "wikilink")
 [thumb\|none\|300x300px](Файл:GTHO_Вещает_5_лет_творчеству_и_самые_первые_пупы "wikilink")
