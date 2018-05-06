@@ -6,4 +6,4 @@ layout: wiki
 
 ## Description
 
-[Категория:Видео](Категория:Видео "wikilink")
+Тутор от баша
