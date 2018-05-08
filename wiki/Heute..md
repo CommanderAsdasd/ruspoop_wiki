@@ -12,7 +12,6 @@ layout: wiki
 face](Файл:Le-lenny-face.png "wikilink")
 
 [thumb\|Старая ава канала](Файл:NENsKLgzibA.jpg "wikilink")
-[thumb\|210px\|Ава времён ника
-Majestics](Файл:G12QrK0mJQ.jpg "wikilink")
+[thumb\|210px\|Ава времён ника Kekus](Файл:G12QrK0mJQ.jpg "wikilink")
 [Категория:Пуперы](Категория:Пуперы "wikilink")
 [Категория:Визуальщики](Категория:Визуальщики "wikilink")
