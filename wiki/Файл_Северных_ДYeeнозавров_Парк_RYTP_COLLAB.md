@@ -6,4 +6,8 @@ layout: wiki
 
 ## Описание
 
-[Категория:Видео](Категория:Видео "wikilink")
+Magnifai - <https://www.youtube.com/user/Power2012ful> 0:00 - The
+Chordettes – Mr Sandman 0:12 - MGMT – Flash Delirium 0:44 - Ария -
+Беспечный Ангел 0:47 - Ewof - Sad 8 bits 1:56 - Combustible Edison - The
+Millionaire's Holiday 3:18 - Belief & Karniege - Watchu Want 3:24 - The
+Pixies - Where is my mind [Категория:Видео](Категория:Видео "wikilink")
