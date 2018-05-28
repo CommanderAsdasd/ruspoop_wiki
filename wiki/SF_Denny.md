@@ -4,12 +4,10 @@ permalink: wiki/SF_Denny/
 layout: wiki
 ---
 
-'''[thumb\|288px](Файл:Photo3ZZQWJ9C.jpg "wikilink") Выпустил первый пуп
-в ноябре 2016 года, но он был удален с канала, как и все первые работы.
-Прославился в узких кругах пупами: "Северных ДYeeнозавров Парк",
-"Hotline Totoshka", "Илья Омоновец и Соловей Чиновник".
-
-[thumb\|left\|344 px\|Северных ДYeeнозавров Парк \| RYTP
+Выпустил первый пуп в ноябре 2016 года, но он был удален с канала, как и
+все первые работы. Прославился в узких кругах пупами: "Северных
+ДYeeнозавров Парк", "Hotline Totoshka", "Илья Омоновец и Соловей
+Чиновник". [thumb\|left\|344 px\|Северных ДYeeнозавров Парк \| RYTP
 COLLAB](Файл:Северных_ДYeeнозавров_Парк_RYTP_COLLAB "wikilink")[thumb\|left\|344
 px\|Hotline Totoshka \|
 RYTP](Файл:Hotline_Totoshka_RYTP-0 "wikilink")[thumb\|left\|344 px\|Илья
