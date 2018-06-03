@@ -60,6 +60,7 @@
 * '''Cinema 4D - ''' популярный редактор у визуальщиков, ориентирован на анимацию, интегрирован в АЕ
 * '''Blender''' - конкурентоспособный open source 3D редактор, есть есть простецкие встроенные монтажные инструменты.
 * '''Zbrush - '''3D для художников.
+* '''Unity3D '''- игровой движок с возможностью создания реалистичной реалтаймовой графики и оффлайновой записи в видео. До сих пор использовался лишь пупером [http://ru.ruspoop.wikia.com/wiki/Kolyasisan Kolyasisan (Pechka Productions)].
 
 == '''Visual Soft<nowiki/>''' ==
 * [http://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/ Mandelbulb 3D] - генератор 3D фракталов, большая любовь пупера [[Pisok ̶R̶Y̶T̶P̶|Pisok Rytp]] ([https://www.youtube.com/watch?v=76Iqzwl1cFk иронический мануал его авторства])
