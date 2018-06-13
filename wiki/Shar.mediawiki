@@ -9,7 +9,7 @@
 |caption4=Пример
 |имя_фамилия=
 |дата_рождения=
-|место_проживания=
+|место_проживания=г. Самара
 |ссылки=*[https://www.youtube.com/user/nok3a897CU Youtube]
 *[https://www.twitch.tv/sharusachev Twitch]
 *[https://twitter.com/sharkov63 Twitter]
