@@ -8,4 +8,7 @@ layout: wiki
 <img src="Rovnaya.jpg" title="Rovnaya.jpg" width="220" height="220" alt="Rovnaya.jpg" /><figcaption aria-hidden="true">Rovnaya.jpg</figcaption>
 </figure>
 
-Любитель Йиффа И Шаурмы [Категория:Пуперы](Категория:Пуперы "wikilink")
+Любитель Йиффа И Шаурмы
+
+[thumb\|Старая Ава 2017-2018](Файл:Шаурма.jpg "wikilink")
+[Категория:Пуперы](Категория:Пуперы "wikilink")
