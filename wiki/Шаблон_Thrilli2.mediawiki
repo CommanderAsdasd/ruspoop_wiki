@@ -1,0 +1,42 @@
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption1"/>
+  </image>
+  <data source="имя">
+    <label>Имя</label>
+  </data>
+  <data source="дата_рождения">
+    <label>Дата рождения</label>
+  </data>
+  <data source="сферы_творчества">
+    <label>Сферы творчества</label>
+  </data>
+  <data source="год_начала">
+    <label>Год начала</label>
+  </data>
+  <image source="image3">
+    <caption source="caption3"/>
+  </image>
+  <data source="ссылки">
+    <label>Ссылки</label>
+  </data>
+</infobox>
+<noinclude>
+Пример использования:<pre>
+{{Thrilli2
+|title1=Пример
+|image1=Пример
+|caption1=Пример
+|имя=Пример
+|дата_рождения=Пример
+|сферы_творчества=Пример
+|год_начала=Пример
+|image3=Пример
+|caption3=Пример
+|ссылки=Пример
+}}
+</pre>
+</noinclude>
