@@ -12,8 +12,9 @@
 |имя_фамилия=
 |дата_рождения=
 |место_проживания=
-|ссылки=[https://www.youtube.com/channel/UCuLMmanRTE0QgPX-URjdbPQ Канал]
+|ссылки=[https://www.youtube.com/user/russianpoops Канал]
 [https://www.youtube.com/user/MedvedStudio2 Второй Канал]
 [https://vk.com/russianpoops Группа ВК]
 }}
+
 [[Категория:Пуперы]]
