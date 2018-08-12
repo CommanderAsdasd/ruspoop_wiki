@@ -4,11 +4,7 @@ permalink: wiki/Участник:Eieizeroi/
 layout: wiki
 ---
 
-## Обо мне
-
-Я дурак
-
-vk.com/teeploop
+## 
 
 ## Мои избранные страницы
 
