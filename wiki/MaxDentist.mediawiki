@@ -1,17 +1,19 @@
 {{Инфобокс для пуперов
-|title2=MaxDentist, MaxDentistAlt
-|другие_ники=
+|title2=MaxDentist
+|другие_ники=MaxDentistAlt
 |image3=[[Файл:MaxDentist.jpg|left]]
 |caption3=
-|сферы_творчества=
+|сферы_творчества=RYTP, RYTPMV, рисование
 |год_начала=
 |image4=
 |caption4=
-|имя_фамилия=
+|имя_фамилия=Максим Лактионов
 |дата_рождения=
 |место_проживания=
 |ссылки=[https://www.youtube.com/channel/UCJ19sV_kyup9K6TI2HumoDQ channel]
 [https://www.youtube.com/channel/UCudSl6fbRN6ZWGFQj8aUadA alt]
 }}Человек. Музпупер. Сурс.
+
+На данный момент деятельность этого автора приостановлена, так как сломался его ноутбук.
 [[Категория:Пуперы]]
 [[Категория:Музпуперы]]
