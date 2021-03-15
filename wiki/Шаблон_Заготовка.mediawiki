@@ -1,4 +1,0 @@
-{|style="padding: 8px; border: 1px solid black; width:100%;-moz-border-radius:10px;"
-|- 
-|align="center"|<span style="font-size:14px;">Это [[:Категория:Незавершённые статьи|незавершённая статья]]</span><br>Она содержит неполную информацию<br> Вы можете помочь '''{{SITENAME}}''', [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} дополнив её].
-|}<includeonly>[[Категория:Незавершённые статьи]]</includeonly><noinclude>{{doc}}</noinclude>

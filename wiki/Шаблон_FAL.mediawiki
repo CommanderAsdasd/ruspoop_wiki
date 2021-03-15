@@ -1,5 +1,0 @@
-{{Лицензия
-| Текст = {{#if:{{{nocat|}}}|Эти файлы|Этот файл}} — Копилефт (Copyleft): свободное произведение искусства, которое можно распространять и/или модифицировать в соответствии с условиями Free Art License. <br />
-Вы можете найти условия этой лицензии на сайте Copyleft Attitude http://artlibre.org/licence/lal/en/
-| Категория = FAL файлы
-}}{{#if:{{{nocat|}}}||<includeonly>[[Категория:FAL файлы|{{PAGENAME}}]]</includeonly>}}<noinclude>{{doc}}</noinclude>

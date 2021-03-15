@@ -1,6 +1,0 @@
-{{Лицензия
-| Изображение = 
-| Текст = {{#if:{{{nocat|}}}|Эти файлы|Этот файл}} загружен автором.
-| Категория = Self
-}}{{#if:{{{nocat|}}}||<includeonly>[[Категория:Self|{{PAGENAME}}]]</includeonly>}}<noinclude>{{doc}}
-</noinclude>

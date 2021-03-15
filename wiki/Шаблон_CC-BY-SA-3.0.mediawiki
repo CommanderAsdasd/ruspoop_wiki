@@ -1,5 +1,0 @@
-{{Лицензия
-| Текст = {{#if:{{{nocat|}}}|Эти файлы|Этот файл}} распространяется под лицензией '''[http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike версии 3.0]'''
-| Категория = CC-BY-SA-3.0
-}}{{#if:{{{nocat|}}}||<includeonly>[[Категория:CC-BY-SA-3.0|{{PAGENAME}}]]</includeonly>}}<noinclude>{{doc}}
-</noinclude>

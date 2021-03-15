@@ -1,2 +1,0 @@
-* Высота шрифта
-<nowiki><span style="font-size:13px;"></nowiki>
