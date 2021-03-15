@@ -1,4 +1,4 @@
-[[markdown/1T1immy.md]]
+[1T1mmy](markdown/1T1immy.md)
 
 4A.md
 
