@@ -1,0 +1,10 @@
+<includeonly>{| class="article-table" style="width:100%;"
+|- style="font-size:18px;"
+! '''Документация'''
+|-
+| ''(для шаблона, который находится выше, иногда он невидим)''
+|-
+| Посетите [[Шаблон:{{PAGENAMEE}}/doc]], чтобы править этот текст. ([[Шаблон:Doc|Как это работает?]])
+|}
+<div style="margin:0 1em;">
+{{{{PAGENAME}}/doc}}</div></includeonly><noinclude>{{doc}}[[Категория:Документация шаблонов|Документация шаблонов]]</noinclude>

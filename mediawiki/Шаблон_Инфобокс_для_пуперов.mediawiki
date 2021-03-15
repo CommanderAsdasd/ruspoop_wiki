@@ -1,0 +1,47 @@
+<infobox>
+  <title source="title2">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <data source="другие_ники">
+    <label>Другие ники</label>
+  </data>
+  <image source="image3">
+    <caption source="caption1"/>
+  </image>
+  <data source="сферы_творчества">
+    <label>Сферы творчества</label>
+  </data>
+  <data source="год_начала">
+    <label>Год начала</label>
+  </data>
+  <image source="image4">
+    <caption source="caption2"/>
+  </image>
+  <data source="имя_фамилия">
+    <label>Имя</label>
+  </data>
+  <data source="дата_рождения">
+    <label>Дата рождения</label>
+  </data>
+  <data source="ссылки">
+    <label>Ссылки</label>
+  </data>
+</infobox>
+<noinclude>
+Пример использования:<pre>
+{{Инфобокс для пуперов
+|title2=Пример
+|другие_ники=Пример
+|image3=Пример
+|caption3=Пример
+|сферы_творчества=Пример
+|год_начала=Пример
+|image4=Пример
+|caption4=Пример
+|имя_фамилия=Пример
+|дата_рождения=Пример
+|место_проживания=Пример
+|ссылки=Пример
+}}
+</pre>
+</noinclude>

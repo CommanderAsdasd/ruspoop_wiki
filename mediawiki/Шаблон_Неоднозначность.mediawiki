@@ -1,0 +1,6 @@
+<div name="Disambiguation notice" class="boilerplate metadata" id="disambig" style="margin: 0 1em; padding: 0 10px; border: 1px solid #aaa;">
+'''Это список значений слова {{PAGENAME}}'''
+
+Здесь представлен список ссылок на страницы с одинаковым названием.<br />
+Пожалуйста, следуйте на нужную вам страницу по одной из следующих ссылок или воспользуйтесь [[Служебная:Search|поиском]], если вам необходима страница, которой нет в списке. Если [[Служебная:Whatlinkshere/{{FULLPAGENAME}}|другая ссылка]] ведёт сюда, вам следует вернуться назад и уточнить её.
+</div><noinclude>{{doc}}</noinclude><includeonly>[[Категория:Неоднозначность]]</includeonly>
